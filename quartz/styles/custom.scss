@@ -15,12 +15,17 @@
 }
 
 .page > #quartz-body .sidebar{
-    width: 350px;
-}
-
-.page > #quartz-body .sidebar {
+    width: 22vw;
     margin-top: 2rem;
     padding: 0px;
+}
+
+.page > #quartz-body .sidebar.right{
+    right: 2vw;
+}
+
+.page > #quartz-body .sidebar.left{
+    left: 2vw;
 }
 
 .page .page-header{
