@@ -1,0 +1,278 @@
+{
+    "currentDate": {
+        "year": 696,
+        "month": 11,
+        "day": 14,
+        "seconds": 25200
+    },
+    "generalSettings": {
+        "gameWorldTimeIntegration": "mixed",
+        "showClock": true,
+        "pf2eSync": true,
+        "permissions": {
+            "viewCalendar": {
+                "player": true,
+                "trustedPlayer": true,
+                "assistantGameMaster": true
+            },
+            "addNotes": {
+                "player": true,
+                "trustedPlayer": true,
+                "assistantGameMaster": true
+            },
+            "reorderNotes": {
+                "player": false,
+                "trustedPlayer": false,
+                "assistantGameMaster": true
+            },
+            "changeDateTime": {
+                "player": false,
+                "trustedPlayer": false,
+                "assistantGameMaster": true
+            }
+        }
+    },
+    "leapYearSettings": {
+        "rule": "none",
+        "customMod": 0
+    },
+    "monthSettings": [{
+        "name": "Month 1",
+        "numericRepresentation": 1,
+        "numericRepresentationOffset": 0,
+        "numberOfDays": 28,
+        "numberOfLeapYearDays": 28,
+        "intercalary": false,
+        "intercalaryInclude": false,
+        "startingWeekday": null
+    }, {
+        "name": "Thawing",
+        "numericRepresentation": 2,
+        "numericRepresentationOffset": 0,
+        "numberOfDays": 28,
+        "numberOfLeapYearDays": 28,
+        "intercalary": false,
+        "intercalaryInclude": false,
+        "startingWeekday": null
+    }, {
+        "name": "3",
+        "numericRepresentation": 3,
+        "numericRepresentationOffset": 0,
+        "numberOfDays": 28,
+        "numberOfLeapYearDays": 28,
+        "intercalary": false,
+        "intercalaryInclude": false,
+        "startingWeekday": null
+    }, {
+        "name": "4",
+        "numericRepresentation": 4,
+        "numericRepresentationOffset": 0,
+        "numberOfDays": 28,
+        "numberOfLeapYearDays": 28,
+        "intercalary": false,
+        "intercalaryInclude": false,
+        "startingWeekday": null
+    }, {
+        "name": "Heating",
+        "numericRepresentation": 5,
+        "numericRepresentationOffset": 0,
+        "numberOfDays": 28,
+        "numberOfLeapYearDays": 28,
+        "intercalary": false,
+        "intercalaryInclude": false,
+        "startingWeekday": null
+    }, {
+        "name": "6",
+        "numericRepresentation": 6,
+        "numericRepresentationOffset": 0,
+        "numberOfDays": 28,
+        "numberOfLeapYearDays": 28,
+        "intercalary": false,
+        "intercalaryInclude": false,
+        "startingWeekday": null
+    }, {
+        "name": "7",
+        "numericRepresentation": 7,
+        "numericRepresentationOffset": 0,
+        "numberOfDays": 28,
+        "numberOfLeapYearDays": 28,
+        "intercalary": false,
+        "intercalaryInclude": false,
+        "startingWeekday": null
+    }, {
+        "name": "8",
+        "numericRepresentation": 8,
+        "numericRepresentationOffset": 0,
+        "numberOfDays": 28,
+        "numberOfLeapYearDays": 28,
+        "intercalary": false,
+        "intercalaryInclude": false,
+        "startingWeekday": null
+    }, {
+        "name": "Cooling",
+        "numericRepresentation": 9,
+        "numericRepresentationOffset": 0,
+        "numberOfDays": 28,
+        "numberOfLeapYearDays": 28,
+        "intercalary": false,
+        "intercalaryInclude": false,
+        "startingWeekday": null
+    }, {
+        "name": "Amaltheia",
+        "numericRepresentation": 10,
+        "numericRepresentationOffset": 0,
+        "numberOfDays": 28,
+        "numberOfLeapYearDays": 28,
+        "intercalary": false,
+        "intercalaryInclude": false,
+        "startingWeekday": null
+    }, {
+        "name": "Níðhöggr",
+        "numericRepresentation": 11,
+        "numericRepresentationOffset": 0,
+        "numberOfDays": 28,
+        "numberOfLeapYearDays": 28,
+        "intercalary": false,
+        "intercalaryInclude": false,
+        "startingWeekday": null
+    }, {
+        "name": "Trüllen",
+        "numericRepresentation": 12,
+        "numericRepresentationOffset": 0,
+        "numberOfDays": 28,
+        "numberOfLeapYearDays": 28,
+        "intercalary": false,
+        "intercalaryInclude": false,
+        "startingWeekday": null
+    }, {
+        "name": "Midwinter",
+        "numericRepresentation": 13,
+        "numericRepresentationOffset": 0,
+        "numberOfDays": 28,
+        "numberOfLeapYearDays": 28,
+        "intercalary": false,
+        "intercalaryInclude": false,
+        "startingWeekday": null
+    }],
+    "moonSettings": [{
+        "name": "Moon",
+        "cycleLength": 28,
+        "firstNewMoon": {
+            "yearReset": "none",
+            "yearX": 0,
+            "year": 696,
+            "month": 11,
+            "day": 28
+        },
+        "phases": [{
+            "name": "New Moon",
+            "length": 3.5,
+            "icon": "new",
+            "singleDay": false
+        }, {
+            "name": "Waxing Crescent",
+            "length": 3.5,
+            "icon": "waxing-crescent",
+            "singleDay": false
+        }, {
+            "name": "First Quarter",
+            "length": 3.5,
+            "icon": "first-quarter",
+            "singleDay": false
+        }, {
+            "name": "Waxing Gibbous",
+            "length": 3.5,
+            "icon": "waxing-gibbous",
+            "singleDay": false
+        }, {
+            "name": "Full Moon",
+            "length": 3.5,
+            "icon": "full",
+            "singleDay": false
+        }, {
+            "name": "Waning Gibbous",
+            "length": 3.5,
+            "icon": "waning-gibbous",
+            "singleDay": false
+        }, {
+            "name": "Last Quarter",
+            "length": 3.5,
+            "icon": "last-quarter",
+            "singleDay": false
+        }, {
+            "name": "Waning Crescent",
+            "length": 3.5,
+            "icon": "waning-crescent",
+            "singleDay": false
+        }],
+        "color": "#ffffff",
+        "cycleDayAdjust": 0
+    }],
+    "noteCategories": [{
+        "name": "Holiday",
+        "color": "#148e94",
+        "textColor": "#FFFFFF"
+    }],
+    "seasonSettings": [{
+        "name": "Spring",
+        "startingMonth": 2,
+        "startingDay": 18,
+        "color": "#fffce8"
+    }, {
+        "name": "Summer",
+        "startingMonth": 5,
+        "startingDay": 25,
+        "color": "#f3fff3"
+    }, {
+        "name": "Harvest",
+        "startingMonth": 9,
+        "startingDay": 4,
+        "color": "#fff7f2"
+    }, {
+        "name": "Winter",
+        "startingMonth": 12,
+        "startingDay": 11,
+        "color": "#f2f8ff"
+    }],
+    "timeSettings": {
+        "hoursInDay": 24,
+        "minutesInHour": 60,
+        "secondsInMinute": 60,
+        "gameTimeRatio": 1,
+        "unifyGameAndClockPause": true,
+        "updateFrequency": 30
+    },
+    "weekdaySettings": [{
+        "name": "Onesday",
+        "numericRepresentation": 1
+    }, {
+        "name": "Twosday",
+        "numericRepresentation": 2
+    }, {
+        "name": "Threesday",
+        "numericRepresentation": 3
+    }, {
+        "name": "Foursday",
+        "numericRepresentation": 4
+    }, {
+        "name": "Fivesday",
+        "numericRepresentation": 5
+    }, {
+        "name": "Sunday",
+        "numericRepresentation": 6
+    }, {
+        "name": "Moonday",
+        "numericRepresentation": 7
+    }],
+    "yearSettings": {
+        "numericRepresentation": 696,
+        "prefix": "",
+        "postfix": "Imp",
+        "showWeekdayHeadings": true,
+        "firstWeekday": 0,
+        "yearZero": 0,
+        "yearNames": [],
+        "yearNamingRule": "default",
+        "yearNamesStart": 0
+    }
+}
