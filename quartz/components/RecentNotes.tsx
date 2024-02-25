@@ -8,6 +8,9 @@ import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
 
+// @ts-ignore
+import recscript from "./scripts/recent.inline"
+
 interface Options {
   title?: string
   limit: number
@@ -35,55 +38,51 @@ export default ((userOpts?: Partial<Options>) => {
     const remaining = Math.max(0, pages.length - opts.limit)
     return (
       <div class={classNames(displayClass, "recent-notes")}>
-        <h3>{opts.title ?? i18n(cfg.locale).components.recentNotes.title}</h3>
-        <ul class="recent-ul">
-          {pages.slice(0, opts.limit).map((page) => {
-            const title = page.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
-            const tags = page.frontmatter?.tags ?? []
+        <button type="button" id="recent">
+          <h3>{opts.title ?? i18n(cfg.locale).components.recentNotes.title}</h3>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            class="fold"
+          >
+            <polyline points="6 9 12 15 18 9"></polyline>
+          </svg>
+        </button>
+        <div id="recent-content">
+          <ul class="recent-ul">
+            {pages.slice(0, opts.limit).map((page) => {
+              const title = page.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
+              const tags = page.frontmatter?.tags ?? []
 
-            return (
-              <li class="recent-li">
-                <div class="section">
-                  <div class="desc">
-                    <h3>
-                      <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
-                        {title}
-                      </a>
-                    </h3>
-                  </div>
-                  {page.dates && (
-                    <p class="meta">
-                      <Date date={getDate(cfg, page)!} locale={cfg.locale} />
-                    </p>
-                  )}
-                  <ul class="tags">
-                    {tags.map((tag) => (
-                      <li>
-                        <a
-                          class="internal tag-link"
-                          href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
-                        >
-                          {tag}
-                        </a>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              </li>
-            )
-          })}
-        </ul>
-        {opts.linkToMore && remaining > 0 && (
-          <p>
-            <a href={resolveRelative(fileData.slug!, opts.linkToMore)}>
-              {i18n(cfg.locale).components.recentNotes.seeRemainingMore({ remaining })}
-            </a>
-          </p>
-        )}
+              return (
+                <li class="recent-li">
+                  <a href={resolveRelative(fileData.slug!, page.slug!)}>
+                    {title}
+                  </a>
+                </li>
+              )
+            })}
+          </ul>
+          {opts.linkToMore && remaining > 0 && (
+            <p>
+              <a href={resolveRelative(fileData.slug!, opts.linkToMore)}>
+                {i18n(cfg.locale).components.recentNotes.seeRemainingMore({ remaining })}
+              </a>
+            </p>
+          )}
+        </div>
       </div>
     )
   }
 
   RecentNotes.css = style
+  RecentNotes.afterDOMLoaded = recscript
   return RecentNotes
 }) satisfies QuartzComponentConstructor

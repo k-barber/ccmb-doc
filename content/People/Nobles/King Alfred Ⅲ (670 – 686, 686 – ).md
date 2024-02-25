@@ -9,9 +9,9 @@ location:
   - "[[Elkenalden]]"
 race: Human
 ---
-<p style="text-align:center;"><img src="https://foundry-vtt-kb.s3.us-east-2.amazonaws.com/Images/Tokens/NPCs/Nobles/Duke%20Alfred%20III%203.png" width="300" height="300"></p>
+<p style="text-align:center;"><img src="https://foundry-vtt-kb.s3.us-east-2.amazonaws.com/Images/Tokens/NPCs/Nobles/Duke%20Alfred%20III%203.png" width="250" height="250"></p>
 
-King Alfred Ⅲ is a calm, caring man - an excellent foil to Aodreia's wrath. He is king-consort by way of his marriage to [[Empress Aodreia Datrus Ⅲ (668 – )|Empress Aodreia]], and Duke of [[The Imperial Plains|the Imperial Plains]] by his own rights. He was born in [[Tunris Valley]] to [[Count Konstantin Oberstein (640 – )|Count Konstantin Oberstein]]
+King Alfred Ⅲ is a calm, caring man - an excellent foil to Aodreia's wrath. He is king-consort by way of his marriage to [[Empress Aodreia Datrus Ⅲ (668 – )|Empress Aodreia]], and Duke of [[The Imperial Plains|the Imperial Plains]] by his own rights. He was born in [[Tunris Valley]] to [[Konstantin Oberstein|Count Konstantin Oberstein]]
 
 His personality often makes him the butt of emasculating jokes, but two things keep his status:
 

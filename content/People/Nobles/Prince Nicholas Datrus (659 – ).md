@@ -7,7 +7,7 @@ tags:
   - Married
   - Human
 ---
-<p style="text-align:center;"><img src="https://foundry-vtt-kb.s3.us-east-2.amazonaws.com/Images/Tokens/NPCs/Nobles/Prince%20Nicholas.png" width="275" height="275"></p>
+<p style="text-align:center;"><img src="https://foundry-vtt-kb.s3.us-east-2.amazonaws.com/Images/Tokens/NPCs/Nobles/Prince%20Nicholas.png" width="250" height="250"></p>
 
 [[Empress Aodreia Datrus Ⅲ (668 – )|Empress Aodreia]]'s uncle. The man in charge of [[The Great Badger Expanse]]. Despite being the Datrian vanguard against [[The Kingdom of Torveldus]] during the [[Datrian-Torveldan War]], he spends most of his days holed up in [[Redlock]] instead of [[Cedar Combe]] where he is supposed to be. Overshadowed by his niece, the prince is known as a power-hungry coward.
 

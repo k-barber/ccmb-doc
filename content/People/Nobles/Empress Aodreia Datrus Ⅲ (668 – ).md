@@ -9,7 +9,7 @@ location:
   - "[[Elkenalden]]"
 race: Human
 ---
-<p style="text-align:center;"><img src="https://foundry-vtt-kb.s3.us-east-2.amazonaws.com/Images/Tokens/NPCs/Nobles/Aodria%20III.png" width="300" height="300"></p>
+<p style="text-align:center;"><img src="https://foundry-vtt-kb.s3.us-east-2.amazonaws.com/Images/Tokens/NPCs/Nobles/Aodria%20III.png" width="250" height="250"></p>
 
 The current Empress of [[The Empire of Datrus|Datrus]]. She is renowned for both her beauty and brutality. She holds the reigns of power in a tight grip and has little compassion for those who fail to do their jobs. She ascended to the throne at only twelve years old after her mother, [[Queen Angelika Ⅱ (654 – 680)]], died during the [[Datrian-Torveldan War]].
 
