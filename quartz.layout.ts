@@ -32,7 +32,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph({
       localGraph: {
         showTags: false,
-        opacityScale: 2,
+        opacityScale: 5,
+        linkDistance: 100,
+        repelForce: 1,
+        fontSize: 0.8
       },
       globalGraph: {
         showTags : false

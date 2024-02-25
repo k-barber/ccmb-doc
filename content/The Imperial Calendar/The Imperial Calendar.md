@@ -5,20 +5,19 @@ The Imperial Calendar is a lunar calendar of 364 days, divided into 13 months. E
 ---
 The 13 months of the year are as such
 
-
-[[Mardöll]]
-Vanadis
-Macnia
-Belen
-Conmac
-Djehuty
-Apophis
-Usire
-Ourania
-Amaltheia
-Chthonia
-[[Níðhöggr]]
-Trüllen
+1. [[Mardöll]]
+2. Vanadis
+3. Macnia
+4. Belen
+5. Conmac
+6. Djehuty
+7. Apophis
+8. Usire
+9. Ourania
+10. Amaltheia
+11. Chthonia
+12. [[Níðhöggr]]
+13. Trüllen
 
 
 ## Waxing and Waning Months
@@ -51,10 +50,10 @@ Moonday is in sync with the cycle of the moon, so the first Moonday of a month w
 ---
 The basic format of a month looks like this:
 
-| **Onesday** | **Twosday** | **Threesday** | **Foursday** | **Fivesday** | **Sunday** | **Moonday**      |
-| ----------- | ----------- | ------------- | ------------ | ------------ | ---------- | ---------------- |
-| 1X<br><br>  | 2           | 3             | 4            | 5            | 6          | 7<br><br>◐       |
-| 8           | 9           | 10            | 11           | 12           | 13         | 14<br><br>⬤      |
-| 15 (1N)     | 16 (2)      | 17 (3)        | 18 (4)       | 19 (5)       | 20 (6)     | 21 (7)<br><br>◑  |
-| 22 (8)      | 23 (9)      | 24 (10)       | 25 (11)      | 26 (12)      | 27 (13)    | 28 (14)<br><br>○ |
+| **Onesday**         | **Twosday** | **Threesday** | **Foursday** | **Fivesday** | **Sunday** | **Moonday** |
+| ------------------- | ----------- | ------------- | ------------ | ------------ | ---------- | ----------- |
+| 1X<br><br><br>      | 2           | 3             | 4            | 5            | 6          | 7 ◐         |
+| 8<br><br><br>       | 9           | 10            | 11           | 12           | 13         | 14 ⬤        |
+| 15 (1N)<br><br><br> | 16 (2)      | 17 (3)        | 18 (4)       | 19 (5)       | 20 (6)     | 21 (7) ◑    |
+| 22 (8)<br><br><br>  | 23 (9)      | 24 (10)       | 25 (11)      | 26 (12)      | 27 (13)    | 28 (14) ○   |
 
