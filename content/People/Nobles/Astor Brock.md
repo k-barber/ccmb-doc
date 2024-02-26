@@ -9,7 +9,7 @@ location:
 race: Human
 rank: Reeve
 ---
-The reeve of Cedar Combe, who runs it in lieu of [[Prince Nicholas Datrus (659 – )|Prince Nicholas]].
+The reeve of Cedar Combe, who runs it in lieu of [[Nicholas Datrus|Prince Nicholas]].
 
 The party knows now that he was the one behind the quest to retrieve unicorn blood, which he used to summon a succubus.
 

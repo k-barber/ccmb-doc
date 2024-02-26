@@ -638,16 +638,12 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
               await mermaid.run({
                 querySelector: '.mermaid'
               }).then(() => {
-                console.log(allSlugs);
-                console.log("WORKING 1");
-                console.log(transformLink);
                 var nodes = document.querySelectorAll(".mermaid .internal-link .nodeLabel");
                 nodes.forEach((node)=> {
                   var link = transformLink("index", node.textContent, {
                     strategy: "shortest",
                     allSlugs: allSlugs,
                   }).substring(1);
-                  console.log(link)
                   var newLink = document.createElement("a");
                   newLink.href = link
                   newLink.style.fontWeight = "normal";

@@ -55,4 +55,4 @@ Aodreia named their first child, Alfred named the other three.
 
 <div class="hide-next"></div>
 
-[[Aodreia ― The Lord of Ice]][[Konstantin Oberstein]]
+[[Aodreia ― The Lord of Ice]][[Konstantin Oberstein]][[Isabel Datrus IV]][[Nils Strasburg]][[Yosefina Oberstein]][[Aodreia Datrus Ⅲ]]

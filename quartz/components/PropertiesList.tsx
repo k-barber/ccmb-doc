@@ -52,6 +52,7 @@ const PropertiesList: QuartzComponent = ({ fileData, displayClass, ctx }: Quartz
       case "Baroness":
       case "Baronet":
       case "Knight":
+      case "Reeve":
         socialClass = "Laynoble"
         icon = transformLink(fileData.slug!, "laynoble.svg", {
           strategy: "shortest",

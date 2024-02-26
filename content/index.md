@@ -18,8 +18,8 @@ cssclasses:
 > 
 > For example, if you asked me about "Prince Nicholas" I'd come back with these pages:
 
-- [[Prince Nicholas Datrus (659 – )|Prince Nicholas]]
-- [[Countess Eva Datrus Ⅳ (680 – )|Countess Eva]]
+- [[Nicholas Datrus|Prince Nicholas]]
+- [[Eva Datrus Ⅳ|Countess Eva]]
 
 %%
 ```query
