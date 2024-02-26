@@ -2,23 +2,43 @@
 tags:
   - Noble
   - People
-  - Married
 location:
   - "[[The Empire of Datrus]]"
   - "[[The Imperial Plains]]"
   - "[[Elkenalden]]"
 race: Human
+born: "670"
+rank: King
 ---
 <p style="text-align:center;"><img src="https://foundry-vtt-kb.s3.us-east-2.amazonaws.com/Images/Tokens/NPCs/Nobles/Duke%20Alfred%20III%203.png" width="250" height="250"></p>
 
-King Alfred Ⅲ is a calm, caring man - an excellent foil to Aodreia's wrath. He is king-consort by way of his marriage to [[Empress Aodreia Datrus Ⅲ (668 – )|Empress Aodreia]], and Duke of [[The Imperial Plains|the Imperial Plains]] by his own rights. He was born in [[Tunris Valley]] to [[Konstantin Oberstein|Count Konstantin Oberstein]]
+```mermaid
+graph TD
+A["Nils Strasburg"] --> B[Konstantin Oberstein]
+B --> C
+	subgraph C [" "]
+		direction LR
+		D[Alfred Oberstein Ⅲ]
+		E[Aodreia Datrus Ⅲ]
+		D --- E
+	end
+
+C --> F[Isabel Datrus IV]
+C --> G[Jacob Datrus]
+C --> H[Philip Datrus]
+C --> I[Florentine Datrus]
+B --> J[Yosefina Oberstein]
+class A,B,E,F,J internal-link;
+```
+
+King Alfred Ⅲ is a calm, caring man - an excellent foil to Aodreia's wrath. He is king-consort by way of his marriage to [[Aodreia Datrus Ⅲ]]. He is Duke of [[The Imperial Plains]] by his own rights though he was born in [[Tunris Valley]].
 
 His personality often makes him the butt of emasculating jokes, but two things keep his status:
 
 1. Despite his demeanor, he has had no challenge coaxing heirs out of the romantically disinclined Aodreia
 2. Deep down most people know that anyone would look weak next to Aodreia
 
-## Alfred's Relationship with Aodreia
+# Relationship with Aodreia
 He's been infatuated with Aodreia since he was a child, and is considered the only man alive with a chance in hell of continuing the royal line. In that regard, it seems his tenure has been quite successful.
 
 He has sired 4 princes/princesses:
@@ -29,11 +49,10 @@ He has sired 4 princes/princesses:
 4. Florentine
 
 Aodreia named their first child, Alfred named the other three.
-## Alfred's Role as Aphrodite's Archpontiff
+# Role as Aphrodite's Archpontiff
 
-## Alfred's Plan to Defeat the Lord of Ice
+# Plan to Defeat the Lord of Ice
 
+<div class="hide-next"></div>
 
-<section class="secret">
-
-</section>
+[[Aodreia ― The Lord of Ice]][[Konstantin Oberstein]]

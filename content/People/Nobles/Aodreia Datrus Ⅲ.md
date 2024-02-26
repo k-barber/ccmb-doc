@@ -2,12 +2,14 @@
 tags:
   - Noble
   - People
-  - Married
 location:
   - "[[The Empire of Datrus]]"
   - "[[The Imperial Plains]]"
   - "[[Elkenalden]]"
 race: Human
+rank: Empress
+born: "668"
+died:
 ---
 <p style="text-align:center;"><img src="https://foundry-vtt-kb.s3.us-east-2.amazonaws.com/Images/Tokens/NPCs/Nobles/Aodria%20III.png" width="250" height="250"></p>
 
@@ -17,6 +19,6 @@ She is an experienced politician, stateswoman, and military commander, known to 
 
 She brought the [[Kingdom of Dirith]] and [[The Great Badger Expanse]] into Datrus, making Datrus an empire.
 
-She is married to [[King Alfred Ⅲ (670 – 686, 686 – )|Duke Alfred]] and reigns over [[Elkenalden]], the capital of Datrus.
+She is married to [[Alfred Oberstein Ⅲ|Duke Alfred]] and reigns over [[Elkenalden]], the capital of Datrus.
 
 Ⅲ

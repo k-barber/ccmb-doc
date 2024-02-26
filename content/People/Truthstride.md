@@ -7,7 +7,7 @@ race: Halfling
 
 The "Bard of dragon romance". While Truthstride is just a halfling, he is well versed on the coming-and-goings of dragons. When he met with the CCMB, he made three prophecies and asked three questions, each referring to a different dragon.
 ## Crowned and Seated at the Head of the Table
-This was Truthstride's prophecy about [[Aodreia ― The Lord of Ice|The Lord of Ice]], [[Empress Aodreia Datrus Ⅲ (668 – )|the Empress]], and [[King Alfred Ⅲ (670 – 686, 686 – )|King Alfred]].
+This was Truthstride's prophecy about [[Aodreia ― The Lord of Ice|The Lord of Ice]], [[Aodreia Datrus Ⅲ|the Empress]], and [[Alfred Oberstein Ⅲ|King Alfred]].
 
 >Consider, for a moment - The most powerful woman in the world, crowned and seated at the head of the table. Before her are two men:
 >
@@ -19,7 +19,7 @@ This was Truthstride's prophecy about [[Aodreia ― The Lord of Ice|The Lord of 
 >
 >What do you think, who should she chose?
 
-The CCMB answered that she should choose the lover of her life, tying your fate to [[King Alfred Ⅲ (670 – 686, 686 – )#Alfred's Plan to Defeat the Lord of Ice|Alfred's Plan to Defeat the Lord of Ice]].
+The CCMB answered that she should choose the lover of her life, tying your fate to [[Alfred Oberstein Ⅲ#Plan to Defeat the Lord of Ice|Alfred's Plan to Defeat the Lord of Ice]].
 
 ## The Serpent Fated to Devour the Sun
 This was Truthstride's prophecy about [[Níðhöggr ― The Serpent]] and [[Níðhöggr ― The Usurper]].

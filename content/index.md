@@ -12,7 +12,6 @@ cssclasses:
 > For now, I'll give you a tour. To your left, you'll see a search bar, a dark mode switch, and the "Explorer". 
 > 
 > To your right, you'll see the "Graph View", "Table of Contents" and the "Backlinks" section.
-
 ## The Search Bar
 ---
 > If you're looking for something in particular, use this to give me a shout. I'll scrounge up any information I can about the topic and give you a simple run down.

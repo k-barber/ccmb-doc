@@ -11,11 +11,14 @@ import { JSResource } from "../../util/resources"
 import calloutScript from "../../components/scripts/callout.inline.ts"
 // @ts-ignore
 import checkboxScript from "../../components/scripts/checkbox.inline.ts"
-import { FilePath, pathToRoot, slugTag, slugifyFilePath } from "../../util/path"
+// @ts-ignore
+import transformLinkScript from "../../components/scripts/transformLinkScript.inline"
+import { FilePath, FullSlug, pathToRoot, slugTag, slugifyFilePath } from "../../util/path"
 import { toHast } from "mdast-util-to-hast"
 import { toHtml } from "hast-util-to-html"
 import { PhrasingContent } from "mdast-util-find-and-replace/lib"
 import { capitalize } from "../../util/lang"
+import { transformLink } from "../../util/path"
 import { PluggableList } from "unified"
 import { ValidCallout, i18n } from "../../i18n"
 
@@ -589,7 +592,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
 
       return plugins
     },
-    externalResources() {
+    externalResources(ctx) {
       const js: JSResource[] = []
 
       if (opts.enableCheckbox) {
@@ -608,10 +611,19 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
         })
       }
 
+      js.push({
+        script: transformLinkScript,
+        loadTime: "afterDOMReady",
+        contentType: "inline",
+      })
+
       if (opts.mermaid) {
+        (global as any).transformLink =  transformLink
+
         js.push({
           script: `
           let mermaidImport = undefined
+          let allSlugs = JSON.parse(\`${JSON.stringify(ctx.allSlugs)}\`)
           document.addEventListener('nav', async () => {
             if (document.querySelector("code.mermaid")) {
               mermaidImport ||= await import('https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.7.0/mermaid.esm.min.mjs')
@@ -625,6 +637,23 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
 
               await mermaid.run({
                 querySelector: '.mermaid'
+              }).then(() => {
+                console.log(allSlugs);
+                console.log("WORKING 1");
+                console.log(transformLink);
+                var nodes = document.querySelectorAll(".mermaid .internal-link .nodeLabel");
+                nodes.forEach((node)=> {
+                  var link = transformLink("index", node.textContent, {
+                    strategy: "shortest",
+                    allSlugs: allSlugs,
+                  }).substring(1);
+                  console.log(link)
+                  var newLink = document.createElement("a");
+                  newLink.href = link
+                  newLink.style.fontWeight = "normal";
+                  newLink.textContent = node.textContent;
+                  node.parentNode.replaceChild(newLink, node);
+                }) 
               })
             }
           });

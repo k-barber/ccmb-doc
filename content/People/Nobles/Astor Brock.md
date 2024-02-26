@@ -8,11 +8,6 @@ location:
   - "[[Cedar Combe]]"
 race: Human
 rank: Reeve
-birth year: 
-death year: 
-parents: 
-spouse: 
-children:
 ---
 The reeve of Cedar Combe, who runs it in lieu of [[Prince Nicholas Datrus (659 – )|Prince Nicholas]].
 

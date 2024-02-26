@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="943.76776"
+   height="945.55585"
+   viewBox="0 0 249.70522 250.17831"
+   version="1.1"
+   id="svg5474"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="pyramid.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5476"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.19607843"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#dadada"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="0.4185"
+     inkscape:cx="-31.063321"
+     inkscape:cy="470.72879"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="-203.85289,187.67831"
+       orientation="0,1"
+       id="guide1860"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="-173.90082,125.17832"
+       orientation="0,1"
+       id="guide2588"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="-147.97216,62.678317"
+       orientation="0,1"
+       id="guide3316"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5471" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.14739323,0.18319984)">
+    <path
+       id="path343"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.42113327;stroke-linecap:square;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:1;fill-opacity:1"
+       inkscape:label="path343"
+       inkscape:transform-center-x="7.1518823e-06"
+       inkscape:transform-center-y="-41.034121"
+       d="M 178.45438 151.14005 L 71.891539 151.14005 L 54.188685 181.80212 L 196.15723 181.80212 L 178.45438 151.14005 z "
+       transform="matrix(1.7309398,0,0,2.002504,-91.666617,-115.38912)" />
+    <path
+       id="path5694"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.42113327;stroke-linecap:square;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:1;fill-opacity:1"
+       inkscape:label="path343"
+       inkscape:transform-center-x="7.1518823e-06"
+       inkscape:transform-center-y="-41.034121"
+       d="M 160.45447 119.96342 L 89.891445 119.96342 L 71.891539 151.14005 L 178.45438 151.14005 L 160.45447 119.96342 z "
+       transform="matrix(1.7309398,0,0,2.002504,-91.666617,-115.38912)" />
+    <path
+       id="path5697"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.42113327;stroke-linecap:square;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:1;fill-opacity:1"
+       inkscape:label="path343"
+       inkscape:transform-center-x="7.1518823e-06"
+       inkscape:transform-center-y="-41.034121"
+       d="M 142.40889 88.707564 L 107.93703 88.707564 L 89.891445 119.96342 L 160.45447 119.96342 L 142.40889 88.707564 z "
+       transform="matrix(1.7309398,0,0,2.002504,-91.666617,-115.38912)" />
+    <path
+       id="path5700"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.42113;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       inkscape:label="path343"
+       inkscape:transform-center-x="7.1518823e-06"
+       inkscape:transform-center-y="-41.034121"
+       d="m 125.17296,58.853742 -17.23593,29.853822 h 34.47186 z"
+       transform="matrix(1.7309398,0,0,2.002504,-91.666617,-115.38912)" />
+  </g>
+</svg>
