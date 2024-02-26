@@ -1,0 +1,3 @@
+The Conquering God. The goblinoids used to be distinct from one another, with separate faiths and customs. Then Maglubiyet conquered them all, deities, and mortals alike. What the goblins, bugbears, and hobgoblins were before Maglubiyet no longer matters. Now they are, first, followers of Maglubiyet.
+
+When one kind of goblinoid encounters another, the two don't see each other as strangers or foes. They know that by the fact of their meeting alone, Maglubiyet has commanded them to come together.

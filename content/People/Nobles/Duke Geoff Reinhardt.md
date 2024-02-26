@@ -8,4 +8,8 @@ location:
   - "[[Torveld]]"
 race: Elf
 ---
-A member of the Torveldan Royal Family. According to [[Marquis Marquaad]], he is one of [[Hydrargyrum ― The Quick|Hydrargyrum's]] servants
+A Torveldan noble and diplomat. He was the guest of honour at [[Astor Brock]]'s party and someone tried to kill him.
+
+That someone turned out to be [[Marquis Marquaad]]. 
+
+After speaking to the Marquis, he revealed that Reinhardt is one of [[Hydrargyrum ― The Quick|Hydrargyrum's]] servants, who is seeking to reignite the [[Datrian-Torveldan War]].

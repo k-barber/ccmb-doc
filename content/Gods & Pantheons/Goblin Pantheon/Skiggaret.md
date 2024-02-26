@@ -1,0 +1,1 @@
+The bugbear bogeyman. His name is rarely spoken, and never above a whisper. Bugbears believe that when they act in a cowardly fashion, they have been possessed by Skigarret. After their madness has passed, bugbears don't dwell on the things they did while in his presence. Talking about such acts might call him back.
