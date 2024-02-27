@@ -7,4 +7,4 @@ race: Dragon
 ---
 
 
-[[Caylbaid ― The Quiet|Caylbaid's]] eldest child. His mother is [[Countess Amalas Sylnala]].
+[[Caylbaid ― The Quiet|Caylbaid's]] eldest child. His mother is [[Amalas Sylnala]].

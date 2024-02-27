@@ -159,3 +159,7 @@ code.mermaid {
 .hide-next+*{
     display: none;
 }
+
+.current-person, .current-person *{
+    color:red !important;
+}

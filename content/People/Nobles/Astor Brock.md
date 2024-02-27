@@ -13,5 +13,4 @@ The reeve of Cedar Combe, who runs it in lieu of [[Nicholas Datrus|Prince Nichol
 
 The party knows now that he was the one behind the quest to retrieve unicorn blood, which he used to summon a succubus.
 
-The succubus was ruining the Brock's marriage so Johanna released it.<p style="text-align:center;"><img src="https://foundry-vtt-kb.s3.us-east-2.amazonaws.com/Images/Tokens/NPCs/Nobles/" width="300" height="300"></p>
-
+The succubus was ruining the Brock's marriage so Johanna released it.

@@ -7,8 +7,8 @@ location:
   - "[[The Imperial Plains]]"
   - "[[Elkenalden]]"
 race: Human
-born: "670"
 rank: King
+born: "670"
 ---
 <p style="text-align:center;"><img src="https://foundry-vtt-kb.s3.us-east-2.amazonaws.com/Images/Tokens/NPCs/Nobles/Duke%20Alfred%20III%203.png" width="250" height="250"></p>
 
@@ -17,7 +17,7 @@ graph TD
 A["Nils Strasburg"] --> B[Konstantin Oberstein]
 B --> C
 	subgraph C [" "]
-		direction LR
+		direction RL
 		D[Alfred Oberstein Ⅲ]
 		E[Aodreia Datrus Ⅲ]
 		D --- E
@@ -28,7 +28,11 @@ C --> G[Jacob Datrus]
 C --> H[Philip Datrus]
 C --> I[Florentine Datrus]
 B --> J[Yosefina Oberstein]
-class A,B,E,F,J internal-link;
+A --> M[Lydia Strasburg]
+M --> K[Samuel Strasburg]
+M --> L[Adrian Strasburg]
+class A,B,E,F,J,K,L internal-link;
+class D current-person;
 ```
 
 King Alfred Ⅲ is a calm, caring man - an excellent foil to Aodreia's wrath. He is king-consort by way of his marriage to [[Aodreia Datrus Ⅲ]]. He is Duke of [[The Imperial Plains]] by his own rights though he was born in [[Tunris Valley]].
@@ -43,7 +47,7 @@ He's been infatuated with Aodreia since he was a child, and is considered the on
 
 He has sired 4 princes/princesses:
 
-1. Isabel IV - the crown princess
+1. [[Isabel Datrus IV]] - the crown princess
 2. Jacob
 3. Philip
 4. Florentine
