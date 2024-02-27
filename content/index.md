@@ -7,7 +7,7 @@ cssclasses:
 
 <div style="display: flex"><div class="left-portrait"><img src="https://foundry-vtt-kb.s3.us-east-2.amazonaws.com/Images/Tokens/NPCs/Gor.png" /></div><blockquote>Welcome to the library! Within these walls you'll find all sorts of interesting information:<br /><ul><li>People we've met</li><li>Places we've been</li><li>Conspiracies we've been implicated in...</li></ul></blockquote></div>
 
-> I'm [[Goras Kelrieth]], the librarian. I manage the [[Cedar Combe Monster Bashers]]' library. If you have any questions, just ask!
+> I'm [[Goras Kelrieth]], the librarian. I manage the [[Cedar Combe Monster Bashers]]' library, so if you have any questions, just ask!
 > 
 > For now, I'll give you a tour. To your left, you'll see a search bar, a dark mode switch, and the "Explorer". 
 > 
@@ -26,6 +26,7 @@ cssclasses:
 Prince Nicholas
 ```
 %%
+
 > [!tip] Advanced Searching
 > You can use "AND" and "OR" to link multiple search terms to narrow down results.
 
