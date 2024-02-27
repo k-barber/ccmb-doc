@@ -30,7 +30,3 @@ class F current-person;
 ```
 
 Named after [[Isabel Datrus Ⅱ ― Child Conqueror]]
-
-<div class="hide-next"></div>
-
-[[Aodreia Datrus Ⅲ]][[Alfred Oberstein Ⅲ]]

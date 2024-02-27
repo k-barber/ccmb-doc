@@ -22,5 +22,3 @@ D --> K[Caspar Dorthana Ⅲ]
 class D,E,F,G,I,J,K internal-link;
 class C current-person
 ```
-
-<div class="hide-next"></div>

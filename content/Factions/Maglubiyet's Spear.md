@@ -1,4 +1,4 @@
-[[Maglubiyet|Maglubiyet's]] Spear Goblin host of 53 legions, the largest host ever created. It was even larger than the [[Primal Host]], which subjugated [[The Empire of Datrus]], until Aodreia Datrus recieved divine intervention.
+[[Maglubiyet|Maglubiyet's]] Spear Goblin host of 53 legions, the largest host ever created. It was even larger than the [[The Primal Host]], which subjugated [[The Empire of Datrus]], until Aodreia Datrus recieved divine intervention.
 
 It is lead by [[Warlord Griobiog]], who has brought together Hobgoblins, Bugbears and Goblins in a surprisingly disciplined manner.
 

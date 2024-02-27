@@ -7,6 +7,7 @@ location:
   - "[[Torveld]]"
 race: Dragon
 ---
+![[mercury.png]]
 
 A silvery, metallic, and mercurial dragon. She has the ability to transform into a puddle.
 

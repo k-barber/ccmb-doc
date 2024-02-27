@@ -28,5 +28,3 @@ K[Aodreia Datrus Ⅲ]
 class G current-person;
 class B,C,D,E,F,H,I,J,K internal-link;
 ```
-
-<div class="hide-next"></div>

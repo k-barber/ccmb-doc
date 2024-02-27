@@ -36,7 +36,3 @@ class B,C,E,F,G,H,I internal-link;
 Following [[Angelika Datrus Ⅱ]]'s death, Nicholas was acting regent for 5 months, before he was wounded in the [[The First Battle of Elkmire Keep|Battle of Elkmire Keep]] and fell into a coma, making Aodreia III the regent despite only being 12.
 
 He was attempting to starve out the keep, but Merric's father smuggled supplies into the fortress.
-
-<div class="hide-next"></div>
-
-[[Eva Datrus Ⅳ]] [[Sofia Datrus Ⅷ]][[Carolin Datrus Ⅱ]]

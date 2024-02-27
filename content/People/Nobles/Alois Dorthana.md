@@ -32,5 +32,3 @@ class G current-person;
 ```
 
 
-
-<div class="hide-next"></div>

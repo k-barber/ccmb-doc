@@ -32,5 +32,3 @@ class B,C,D,E,F,G,I,J,K internal-link;
 ```
 
 - [[Gabriella's Swaddling Cloth]]
-
-<div class="hide-next"></div>

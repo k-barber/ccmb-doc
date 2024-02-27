@@ -29,5 +29,3 @@ To thank Clara, Isabel offered her daughter's hand in marriage to Clara's son.
 Clara did not object.
 
 Under Isabel's leadership, Datrus expanded into what is now known as Wustus, Tunris Valley, Wrenttague, and Astain.
-
-<div class="hide-next"></div>

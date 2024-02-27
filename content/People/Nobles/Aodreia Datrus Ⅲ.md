@@ -42,7 +42,3 @@ She is an experienced politician, stateswoman, and military commander, known to 
 She brought the [[Kingdom of Dirith]] and [[The Great Badger Expanse]] into Datrus, making Datrus an empire.
 
 She is married to [[Alfred Oberstein Ⅲ]] and reigns over [[Elkenalden]], the capital of Datrus.
-
-<div class="hide-next"></div>
-
-[[Isabel Datrus IV]]

@@ -30,5 +30,3 @@ I --> J["Thalia Von Aureaveil"]
 class E,G,J internal-link;
 class F current-person;
 ```
-
-<div class="hide-next"></div>
