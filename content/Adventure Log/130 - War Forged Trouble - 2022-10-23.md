@@ -1,0 +1,23 @@
+They passed me the book today.  
+Apparently Desdemona wasnt up to the task of giving the adventure log for today. I believe she had a little too many drinks after fighting that crocodile.
+
+We head our way to Ulstervale in the Agon Wastes. This place is fairly dry and plain. The town is sort of whack, they dont have very much but they DO have a giant skeleton on display by the river that has a clear path to the temple doors in this town. A priest tells the tale of how this was Averyth, which was the great creature that protected the town, but they have no idea what kind of creature it was. The priest didnt like me pushing as to why they didnt know the information on the creature.
+
+Averyth does have a prodigy which is a warforged in the town. Seems to protect the town well enough. What a strange companionship to have of a Giant boned creatures with a not so giant but still protective thing. The warforged were created using Averyth's blood. Whack
+
+We decide to leave town to head south and look for the warforged factory. This is all making me think fondly of [[5-0-13]] (Fitty) and his time with us as a group. Oh how he is missed. We get there and immediately I see medusa.  
+correction, there are 2 drakes and a medusa lol. We discuss the efforts of maybe charming them into helping us out but concluded that we should just fight this one out. Spesof, without really thinking about it too hard, pulled out his mirror and ran to the medusa and had it petrify itself ahaha. Perfect. I took my own shot at a drake and damaged it badly. I kinda feel bad about this. Like I shouldnt have done it in the first place, these drakes are cute!
+
+We continuously beat on the drakes (I hate that) until they are essentially dead although I request with the others that we try and capture the drake and keep it for our own. Momen likes (or atleast tolerates) the idea and moves into a position to capture it. Spesof then whacks it non-lethally and knocks it out.
+
+I tie it up (poorly) to a pillar in hopes that itll still be there when I get back. and we head down into the mines  
+We can see that there is a hot fiery inferno infront of us with a TON of gold. Im very excited
+
+We go into the dungeon and have searched around, finding a very similar symbol to fitty's on the wall and continue into the dungeon, entiering what appears to be a LARGE room that has collapsed on itself with a whole whackload of dead bodies. In the centre is a giant ball of energy which i dont want to touch but looks very cool. Theres also a large mural of Hydrargerum on the wall. I feel most certainly terrified of that
+
+I tried to steal some loot and a dragon popped out immediately frying the skeltons and momen, I however dodge it and convince the dragons we were helping out [[Hydrargyrum ― The Quick]] and he booted out. We manage to sneak out way into a locked room but I was unabel to open it. the chest inside it i mean, the room was no challenge at all  
+Momen cut through the wall to a room and we enter a room thats got a silver skeleton and a bunch of wires and Im spooked. The silver skull asks for our designation, its a factory droid. Its giving us all of the details of this place, which is basically in shambles. The droid then tells us that they have defence systems in place so we are investigating all possibilities. We have devised a plan to have me go invisible and run to the shield that controls the defense mechanism. Its very hairy but im willing to risk it
+
+I do a couple of slick maneuvers against the dragons attacks as I get to the defence mechanism and then sleek my way over to the switches and kick them where the drop MASSIVE warforged titans into the room to help defence it from the dragon. This all happens after Momen and Spesof did a fantastic job at distracting the dragon momentarily while i could flip the switches. The titans then surround the dragon and start attacking it but the dragon does quite a good job at defending itself. Fighting off the warforged, the dragon does a good job at keeping on its feet, but I managed to take it down. My goodness, Its got a PHASE 2! It charges at me and then hits me but i manage to get out without dying, cowering behind one of the titans. I lied, it then summoned a magma pillar underneath me, Honestly, thats just rude. Okay, the dragon just threw the warforged against the wall... I guess this is phase 3 ...
+
+TO BE CONTINUED BY SPESOF

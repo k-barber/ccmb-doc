@@ -1,0 +1,11 @@
+I awake tirelessly and the crew decides What to do. Spesof seems eager find the potable dagger and Fiona seems eager to find winter clothes. It seems like [[Merric Porridgepot]] thinks this might be an unpleasant decision to remove the water source of Salsgate. I arose the idea of going to the capital because I have something locked away in a bank or something that I need to retrieve, which would appear to take 40 hours. We prep for the boating quest and Momen prepares a zombie crew for the adventure. We are ready for our ADVENTURE!
+
+AND AWWWAAY WE GO, We make the checks to navigate the first 40 miles around a water elemental without issues. The Crew decides to pass Salsgate and head to [[Cinderfell]]. I then sneakily sneak us past a blue dragon without telling Momen. Cinderfell seems like a town of lesser coolness than ours but thats fine, theyre still neat people.
+
+I got lost in the maze... I dont know how to get out. Im gonna try something. I DID IT I FOUND MY WAY OUT! I hated that, im not doing that ever again...
+
+We woke up and Fiona is gone. Currently trying to look for her. Fiona seems to have been taken to the dungeon for doing something in the garden? THe guards wont let us take Feona out of the dungeon. However, I managed to swindle the guards into thinking that Feona was uncontrollably spellcasting in which case he offered to let us go up and talk to the Marquis ( [[Edgar Marquaad]] ) about it. 
+
+We went to see the Marquis but the queen was there, She was a tad bit sketchy. but the marquis came in afterwards and was PISSED (we stole his stupid mask thing and he wants it back). Spesof took the lead on this and it failed with my assistance and now we are in jail. But on the bright side, Fiona, discuised as a rather short Prince [[Nicholas Datrus]] is here.
+
+We devise a plan to escape but it seems to be slim pickings. It seems like the best bet is to qait for someone to roll around to get us out instead of trying to breaking out considering we are in torveldus. Feona uses mage hand to continuously fuck with the guard with the torch

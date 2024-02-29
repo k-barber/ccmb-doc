@@ -1,0 +1,10 @@
+
+We stand here at he gates trying to determine what to do. This stupid man wont let us pass because apparently "banking" isnt a reasonable reason to enter. Kind of ridiculous if you ask me. We toss a rock out of the path to see if we haveany leniency on these zappy rocks and going past the building. We then try to use magic in the building to see if it is detected or not. Momen remembers that he knows someone in the [[Torveldan University of Magic and Sorcery]], [[Iladrien Lassagaseer]] whom might be able to get us into to torveld. Momen doesnt want to throw this guy under the bus though so this might be a dead end  
+I start to speak about this professor to the front desk and momen interrupts me to speak more (as i intended) and the guard lets us through! SUCCESS!  
+We traverse the lands as fast as possible to our first destination, Swellinghill. This place we landed on is apparently a giant Island essentially, becoming one once winter ends. Theres a tattoo that Spesof wants here, but we cant afford anything cause we are broke  
+The inn here tell me that its going to be many gold pieces to stay at the inn so I will not be doing that. Spesof and Moment insist on staying there but me, no thankyou, My money is precious. So i go and beg my way into someone elses house. I had a good night sleep. Apparently they had an even better night sleep but i think they are lying to me  
+I didnt Blow The Beans on this one  
+I head to the bank once we arrive at Torveld and try to weasel my way into this deposit, I was asked to answer some question and failed horribly. I then meet up with one of my criminal contacts, Findalye, who assures me they can help me get my key back and then scurry back to my companion mercenaries  
+We then Go to see momens "friend"  
+He tells me they are nemesi, but truth be told, they dont seem like it. I woulda killed this guy already if he were my nemesis. I walk up to him and put my arms around him and try to sneak something out of his pick something out of his pocket which was unsuccessful.  
+Momen passes some notes and they do stuff...
