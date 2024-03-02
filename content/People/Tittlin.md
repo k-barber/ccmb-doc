@@ -28,3 +28,9 @@ Tittlin had a pretty basic story while on his own; he mainly turned to a life of
 One day Pisces was taken from Tittlin, and using his criminal contacts he followed the bread crumbs to the [[The Great Badger Expanse]] where he met a group of adventures which would soon form the [[Cedar Combe Monster Bashers]]
 
 Tittlin eventually caught a closer wind of where Pisces was being held shortly after joining the Monster Bashers where they had eventually found him and the two were finally reunited
+
+### Aliases
+
+"Chittlefingers"
+
+![[Pasted image 20240301155459.png]]

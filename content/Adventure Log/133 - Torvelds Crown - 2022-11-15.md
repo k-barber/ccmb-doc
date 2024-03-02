@@ -8,15 +8,15 @@ We then plan our return to cedercomb with a quick stop to farquad to make sure h
 
 We head back to [[Cedar Combe]] and [[Merric Porridgepot]] and [[Goras Kelrieth]] (Bald Eagle) give me the hear breaking news that it is going to be very hard to tame the beast so this is going to take quite some time
 
-I come up with a plan to go to Chimera the dragon from yonder and see if he can help guide me to train the drake to be an ally. In the mean time we prepare all sorts of other stuff like moms information and spesofs homework
+I come up with a plan to go to [[Qymera]] the dragon from yonder and see if he can help guide me to train the drake to be an ally. In the mean time we prepare all sorts of other stuff like moms information and spesofs homework
 
-We get a long rest and plan for our journey to Chimera and afterwards to Farquad
+We get a long rest and plan for our journey to Qymera and afterwards to Farquad
 
 Momen before we leave came to me and asked me for assistance with conjuring up some dead. Insead of me just going out and killing people, I decided to give the good ol [[Thieves Guild]] Arena a shot. At the arena the receptionist informed us that there is a fresh owl bear killed and decomposed that momen can raise. Im not sure if he will be able to raise it but it seems like he is going to try. By God He Did It!
 
 We pay for some rowers for the boat so we dont have to do most of the work  
-and we head off at sea to our first stop the chimera
+and we head off at sea to our first stop the Qymera
 
-Chimera informs us that Dragons are racist and that the Blue Steve French is most likely a Red Drake  
+Qymera informs us that Dragons are racist and that the Blue Steve French is most likely a Red Drake  
 Also that there is nothing to do that he can help with in terms of training other than giving us a list of simple draconic commands I can use that the dragon will understand. Spesof asks if there are any wyrmlings around that we can killl. He informs us that there are a pair of Wyrmlings in the eastern march and in tunrys valley which is just north of the imperial plains. We get to farquad at the end of our trip and hand him the piece of the artifact 
 Farquad doesnt seem happy with us considering we didnt kill [[Geoff Reinhardt]]. Farquad is very skeptical about the fact that Hydragerum gave us the artifact for no reason lol. Farquad gives us all these questions about hydrargerum and seems very happy about all of this im not sure why. Momen writes down all of the information that Farquad gives us of Hydragerum and the history of Torveldus. Farquad informs us that the only way to truly unite Torveldus and Datrius is to Destroy the crown from within Hydrargerum

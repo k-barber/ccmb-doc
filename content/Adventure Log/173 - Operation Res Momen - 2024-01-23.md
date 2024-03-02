@@ -1,5 +1,8 @@
-Tittlin's log
-
+---
+author: "[[Tittlin]]"
+log number: 173
+date: 2024-01-23
+---
 I woke up to find myself laying in front of Spesof Beegstick and a pile of dust
 It would appear that Momen Tomori has been spesof'd
 

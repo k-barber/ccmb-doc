@@ -1,3 +1,8 @@
+---
+author: "[[Merric Porridgepot]]"
+log number: 47
+date: 2021-07-20
+---
 - Merric called in a favour with someone from Kemany and the party went to [[Niflheim]]
 - Fought imps and a succubus who charmed [[5-0-13]] with visions of armies and used him to shield her escape
 - Collected a number of obols from corpses around the place

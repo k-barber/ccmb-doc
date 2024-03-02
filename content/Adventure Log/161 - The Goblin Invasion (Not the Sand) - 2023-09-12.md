@@ -1,3 +1,8 @@
+---
+publishDate: 2012-01-10
+---
+
+
 Tittlins Log
 
 We analyze the field and decide to take the left side as to avoid fighting some of the larger enemies to the east, fighting our way to the stables. Our first combatants are a Worg and a couple of goblins. Spesof makes his first attack to show us all that the worg isnt much of an issue, while the goblins retaliate with some bow attacks. A Hobgoblin steps out from behind a wall and lays a whole bunch of dart attacks on spesof doign a surprising amount of damage. Seeing this, i decide to wanted the hobcoblin and curve an arrow around [[Caspar Dorthana Ⅲ]] directly into its throat, killing it instantly.
