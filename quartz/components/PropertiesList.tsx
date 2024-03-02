@@ -8,6 +8,8 @@ const PropertiesList: QuartzComponent = ({ fileData, displayClass, ctx }: Quartz
   const locations = fileData.frontmatter?.location as Array<string>
 
   const rank = fileData.frontmatter?.rank
+  const logNumber = fileData.frontmatter?.["log number"] as number
+  const author = fileData.frontmatter?.author as string
   var socialClass
 
   var icon
@@ -71,6 +73,19 @@ const PropertiesList: QuartzComponent = ({ fileData, displayClass, ctx }: Quartz
 
   return (
     <>
+      {/* {JSON.stringify(fileData.frontmatter)} */}
+      {logNumber && <h3 style={{margin: "0.5em 0"}}>Adventure Log #{JSON.stringify(logNumber)}</h3>}
+      {author && (
+        <>
+          Written by:&nbsp;
+          <a
+            href={transformLink(fileData.slug!, author.substring(2, author.length - 2), {
+              strategy: "shortest",
+              allSlugs: ctx.allSlugs,
+            })}
+          >{author.substring(2, author.length - 2)}</a>
+        </>
+      )}
       {icon && (
         <div
           style={{
