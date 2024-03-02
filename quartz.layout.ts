@@ -19,8 +19,8 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
     Component.PropertiesList(),
+    Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
@@ -35,16 +35,18 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph({
       localGraph: {
         showTags: false,
-        opacityScale: 5,
-        linkDistance: 100,
-        repelForce: 1,
-        fontSize: 0.8
+        opacityScale: 1000,
+        linkDistance: 50,
+        repelForce: 5,
+        fontSize: 0.9
       },
       globalGraph: {
         showTags : false,
-        opacityScale: 5,
-        linkDistance: 100,
-        fontSize: 0.8
+        opacityScale: 1000,
+        linkDistance: 50,
+        repelForce: 8,
+        fontSize: 1.1,
+        centerForce: 0.5
       }
     }),
     Component.DesktopOnly(Component.TableOfContents()),
