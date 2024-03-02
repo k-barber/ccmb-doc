@@ -3,7 +3,7 @@ author: "[[Merric Porridgepot]]"
 log number: 48
 date: 2021-07-25
 ---
-- Representatives from the [[Greenteeth Coven]], the [[Spire of Dizif]], the [[Nerwora Institute]], and [[the Nelial group]] met with the CCMB to convince them to relinquish Eva into their care
+- Representatives from the [[Greenteeth Coven]], the [[Spire of Dizif]], the [[Nerwora Institute of the Arcane|Nerwora Institute]], and [[the Nelial group]] met with the CCMB to convince them to relinquish Eva into their care
 - Spesof spoke to [[Rafnar Jakobsson]], head prefect of Dizif, about [[Hadrian the Disgruntled]]
     - Hadrian daughter [[Alyss Beegstick|Alyss]] died some time ago - same name as Spesof's mother
     - Hadrian became disgruntled

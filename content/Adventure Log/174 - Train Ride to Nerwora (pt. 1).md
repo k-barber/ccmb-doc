@@ -6,7 +6,7 @@ date: 2024-01-30
 With Momen revived and a wealth of information provided to the Duke, we head out of the sauna to discuss Momen's status. Momen tells us that we need to go back to Nerwhora so that we can get his backup copy of his spellbook, and hopefully he can update it to a reasonable state.
 Momen and Tittlin bicker back and forth a bit as Tittlin tries to offload a bunch of random garbage on to Momen.
 
-Tittlin asks the Duke to get his men to retrieve the Immovable Rod for us so that we can head straight to Nerwhora instead of detouring back to Baron Dorthana's. I offer to call up Rafnar again to teleport us to Wustus but Momen sternly terns down the offer, encouraging us to travel by rail instead. We spend a bit of time shopping around Eikenalden to replenish some of our supplies before heading off to Larhammer to catch a train to Coltoise. 
+Tittlin asks the Duke to get his men to retrieve the Immovable Rod for us so that we can head straight to [[Nerwora Institute of the Arcane|Nerwora]] instead of detouring back to Baron Dorthana's. I offer to call up Rafnar again to teleport us to Wustus but Momen sternly turns down the offer, encouraging us to travel by rail instead. We spend a bit of time shopping around Eikenalden to replenish some of our supplies before heading off to Larhammer to catch a train to Coltoise. 
 
 While waiting for our train, Tittlin opts to get a sick tattoo of the Mark of the Spider at Larhammer Inks. We wait with him while he squirms and groans, and at the end are presented with the gorgeous design of an Orb-weaver straddling his left leg like a stripper pole. We head off to catch our train to Coltoise.
 
