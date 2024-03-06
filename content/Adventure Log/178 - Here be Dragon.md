@@ -1,6 +1,5 @@
 ---
-author:
-  - "[[Momen Tomori]]"
+author: "[[Momen Tomori]]"
 log number: 178
 date: 2024-02-27
 ---
