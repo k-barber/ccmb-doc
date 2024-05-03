@@ -9,6 +9,7 @@ born: Chthonia 21st, 569
 citizenship: Oscyian
 ---
 <p style="text-align:center;"><img src="https://foundry-vtt-kb.s3.us-east-2.amazonaws.com/Images/Tokens/Players/Momen%20Tomori.png" width="250" /></p>
+
 ##### Backstory
 Momen grew up as a member of the Tomori clan, a dwarven clan well known for making high quality bells. However, not all members of a clan necessarily engage in the same occupation, and Momen instead followed his favourite grandfather as he studied the arcane. His grandfather, [[Fargrim Tomori]], specialized in the research of necromancy and was pursuing the secret of how to raise a dragon as an undead. After all, what better creature to defend the caves and treasures of the dwarves? Unfortunately, dragons, even when dead, prove to be incredibly resistant to magic. Fargrim passed away before he could see his research completed.
 
