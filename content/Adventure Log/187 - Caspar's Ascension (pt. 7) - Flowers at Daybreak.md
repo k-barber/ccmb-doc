@@ -1,0 +1,55 @@
+---
+author: "[[Momen Tomori]]"
+log number: 187
+date: 2024-05-01
+---
+As the dust settled, I asked [[Tittlin]] if there were any other [[Drow]] nearby. He said know, but quickly switch to talking about rum, almost pulling us along to the dining hall. As I'm wondering what he's going on about, he immediately starts trying to push over the barrels, and manages to with the help of [[Spesof Beegstick|Spesof]]. As the rum washes out onto the floor, I can see three potions stored within. They turn out to provide resistance to necrotic energies, so I leave mine to Spesof.
+
+As we're searching, Tittlin asks about spells that can produce daylight. I tell him I know of the spell that can do it, shockingly enough called "[Daylight](https://5e.tools/spells.html#daylight_phb,bookview:true)", but that I don't know how to cast it. Spesof pipes up that daylight blinds him, to which I nod absently, wondering if Tittlin is rubbing off on him.
+
+After finding a Drow prayer book and a pair of spell scrolls in the last room, Tittlin beckons us over to one of the statues. I wonder what's special about this one and he mentions that there's no webs on it. As Tittlin and Spesof start grabbing and pulling on random parts, I take a closer look at the webs. On the right side of the statue, they appear to be torn away repeatedly from a section under the statue's arm. Feeling around on the side of the statue's torso, I eventually find a smoothly hidden pressure plate and push it in. With a click, a door opens at the other end of the hallway, revealing a chest.
+
+For some reason, Tittlin seems apprehensive about this chest and asks me to check it for traps. I'm not sure why he's asking me, as he's better with them, but I take a look at the stonework anyways. Much as I expected, I don't find anything trap like. Reporting this to Tittlin, he cautiously unlocks it and asks Spesof to open it, backing well out of the room. To the surprise of neither of us, there's no trap. Just gold and an amulet shaped like a spider in its web that appears to be a ward against divination.
+
+After the hidden room we find a dungeon, with the remaining skeletons of prisoners who appeared to starve to death here. One of them is still dressed in priestly vestments with a bird ring on his finger. As Tittlin examines him, he find a key that was apparently swallowed to keep it from the Drow.
+
+We continue on briefly pausing in the infirmary for Tittlin to finish off the single Drow inside. Spesof looks unsettled at the prospect of this, but I can't much sympathize with those who starved their prisoners and were going to bleed me dry on an altar.
+
+Further down the hall, we find an impressive door that the key opens. We find a magical device with only one of three levers movable.  We decide to hold off on pulling it in favor of clearing the rest of the temple, which consisted of a single mimic that Spesof fell for and discovering 2 healing potions in an old alchemical workshop. Pulling the lever caused daylight to flood the temple, replacing the earie darkness with practically blinding lights. Actually blinding in Spesof's case, as it appears the Robe of Eyes makes you sensitive to such light. The remaining levers are now unlocked, and pulling them drains the basin of blood from the sanctum.
+
+After returning the key and ring to the head priest, we head back to the inn to let [[Caspar Dorthana Ⅲ|Caspar]] know what happened. We knock on the door of the room, but hear no response. With a quick worried glance at each other, we unsheathe our weapons and I push the door open with my staff. Seeing the honor guard strewn across the floor, we rush in and check on them. Luckily, none of them seem to be injured, just unconscious. As Spesof wakes up one of the guards, I take another look around, seeing a tea set on the table with one cup upright and one overturned. The guard wakes up and we ask what happened, but all he can remember is that there was tea with some lady.
+
+I pull out the scrying orb and set it on the table, beginning to search for Caspar. As the scene starts to resolve itself, Tittlin mentions that [[Rittlin]] might have seen something, before wondering if he was still on the [[The Wyvern|ship]]. At this, Rittlin pops his head in through the door, interjecting "I've been here the whole time."  
+Incredulous, I reply "Including when Caspar was kidnapped?" 
+"Caspar's been kidnapped?!?"
+
+We fill him in as to what we know so far as the scrying orb finishes resolving its scene. Rittlin immediately recognizes the location based on the pink flowers visible on the walls. Apparently, it's the house of an elf sorceress named [[Elanalue Meraberos]] who lives just outside of town. He recommends getting a gift for her to help get on her good side.
+
+We spend several minutes debating if it makes sense to rush to save Caspar now, as it is late in the day and this is more likely to be involving social graces instead of battle axes. We buy a pink porcelain tea set as a gift before trying to get some rest. Tittlin tries to get us to camp near the sorceresses house, but that seems like it's just asking for an unexpected encounter.
+
+We set out in the early morning fog to find the sorceresses cottage sprouting out of the forest itself. The knock on the door is answered by a maid who lets us in. With a rapid pattering of feet and a skid around the corner, the sorceress herself makes her entrance, introducing herself with as much flair and cheer as she can muster. I'm surprised at how young she is, at barely seventeen her flower want is nearly bigger than her.
+
+She invites us in for tea and we sit down in the sparse and spaced out chairs. Seeing the furniture, Tittlin tries to make small talk about Spesof being a carpenter. This very nearly backfires and is only rescued when Spesof says he only works with deadfall.
+
+Tittlin changes the subject briefly to him being a well travelled connoisseur of tea, which I am nearly certain he isn't, before asking Elanalue about her profession. Given the slightest cue, she strikes another pose and re-introduces herself as a powerful archdruid, summoning a patch of flowers directly out of the hardwood floor.
+
+As Tittlin begins to ramble on about using a love potion on Katya's dad, Spesof decides to interrupt and encourages him to stretch his legs. Tittlin leaves the room to wander as Spesof asks about Caspar. Elanalue immediately starts gushing over the man good enough for a princess that she managed to charm with her feminine wiles.
+
+I try to suppress my skeptical eyebrow as I take another sip of tea. The conversation moves onto when she met Caspar, and how the "rude guards wouldn't let her see him", so she put them to sleep before Caspar decided to come with her. I decide to push back on this, making it clear that what she did was abduction. She sputtered in indignation, before raising her wand and yelling "Billy!".
+
+Before I could react, there was a burst of flowers and a goat knocked me out of my chair. By the time I get my wits back together restrain the goat, Tittlin has returned and has said something that has led her to remark that she doesn't like angry men. As the goat disappears in another cloud of flowers, Spesof and Tittlin start talking up how great of a war hero Caspar is. Elanalue's smile wilts slightly as she asks to hear something else about him. Spessof then starts to talk about how Caspar will become a Duke, and the boring, adult responsibilities of whomever becomes his Duchess.
+
+As with children the world over, she doesn't appreciate being belittled as too young and summons "Fluffly" this time. With another, larger, cloud of flowers, an owl bear appears. Spesof, wide-eyed, quickly runs out of the room as it chases him. I figure he should be able to hold it off, but that's still quite the creature to have to deal with.
+
+Tittlin tries to continue where Spesof left off, talking about how boring it is being nobility while being careful not to step on the same landmine Spesof did and occasionally meandering into talking abstractly about how forced relationships are bad. I'm not quite following where he's going with it, but Elanalue apparently is still following, albeit with less energy she had a minute ago.
+When Tittlin arrives at his point that she should ask Caspar directly, she sits silently fidgeting for a moment. Casting another glance at the gift tea set peaking out of its bag, she asks if we can use that tea set for Caspar. We agree and a new pot of tea is made, with Spesof returning slightly worse for wear in time for the second round. She holds the new teacup close in her hands, as the quality dishes appear to have restored a little bit of her confidence, if not her energy.
+
+As the maid brings in Caspar, Tittlin reappears with loud scraping noise, pulling the bench from the entry hall behind him for Caspar to sit in. Caspar appears to be still dazed as he's led to the bench, but quickly pulls himself together as him and Elanalue introduce themselves.
+
+There's a moment of silence after the introductions and I can see Elanalue fidgeting nervously behind her back. A bit of prodding from Tittlin and an offer of more time from me are enough to get her to go. Speaking too quickly, she stammers through a relatively formal proposal of marriage to Caspar, who quickly meets eyes with us. Tittlin looks up at the ceiling as if to say "I've done my part", while Spesof and I give subtle shakes of our heads. As... passionate as she is, her impulse control leaves something to be desired.
+
+Caspar gives a less-than committed answer, thanking her for her interest before passing the buck off to his father. Probably a wise call as it pushes the blame and decision making onto someone not present who we can rely on outcome from.
+
+Elanalue nods, a failing smile flickering across her face as she starts to tear up. I catch the eye of the maid and nod towards Elanalue, figuring that the maid is probably the best person to calm her down. The maid moves over and whispers in her ear. With one last wave of the wand and a call for "Cuddles", a giant bipedal reptile appears and lays down. As Elanalue gives it a hug, she states that she'd like to be alone, a wish that we're happy to make happen.
+
+As we close the door on the now flower covered room, Caspar starts asking what happened. We hold off for the moment, wanting to get fully clear of the place before discussing. Upon arriving back at the inn and meeting up with the guards, we convey everything that had happened with both the priest and the archdruid. As we talk about Elanalue, we start wondering what, if anything, we should be doing about the child with magic that outstrips their maturity. We eventually decide that none of us are in a good position to do anything about it now and make haste back to [[Cedar Combe]], anxious to put the perturbable prodigy behind us.
