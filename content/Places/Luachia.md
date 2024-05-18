@@ -1,0 +1,1 @@
+The larger continent containing [[The Empire of Datrus|Datrus]], [[The Kingdom of Torveldus|Torveldus]], [[Drelia]], [[Yggdrasil]], [[Ublijan]] and [[Oscya]].

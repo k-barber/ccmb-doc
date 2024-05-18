@@ -1,7 +1,7 @@
 Will do in point form
 Schwarzmann and Ebsen start trading informaiton
 
-Ebsen is handing over info on monsters in exchange for [[tunris]] culture trends and societirs
+Ebsen is handing over info on monsters in exchange for [[Tunris Valley|Tunran]] culture trends and societirs
 Philip Khalstead by Rian Wyrmwood on some srt of deal
 
 Caylbaids girl and phillip kalstead have a hushed discussion that seems to be hushed
