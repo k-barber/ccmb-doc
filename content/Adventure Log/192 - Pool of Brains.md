@@ -1,0 +1,24 @@
+---
+author: "[[Tittlin]]"
+log number: 192
+date: 2024-06-11
+---
+I dont know what happened, One moment I was in a mine charmed by one of those tentacle hooligans, and now I lay here, wherever here is. Around me is a lush forest and off in the distance a massive mountain range that appeared to span entirely around me in a circle. There weren't many things around me but there were a couple of Sylvan creatures roaming around.
+
+I walked around for a bit, trying to get a better idea of where I was, trying find any sort of person to help me figure out where I was. After a few hours of travel I seem to walk to what looks like tower attached to an abandoned train station that goes absolutely nowhere, fading off a few feet in the distance. On the inside was a rather interesting building, A big room filled with different coloured green plants. A man sits at the top of the tower and climbs down to me. He speaks kind of weirdly and in elvish. To sum it all up, I have died and hes trying to decide what my fate will be. Typically I would be reincarnated or simply sent to Limbo based on who I was during my time alive. While rambling on he stops suddenly and lets me know that my time as Tittlin isnt up and i have bigger plans at steak.
+
+Immediately after that I wake up in a church
+
+**Tittlin wakes up with resurrection sickness and passes his notebook to Rittlin**
+
+Rittlin's Log - My stupid brother got himself into a great pickle again, so hes stepping out in order to let me take over while he gets over his resurrection sickness. We briefly rest up for the night before heading out in the morning to finish up what Tittlin and the gang had started.
+
+We head out and Spesof and momen give me a tour of the place before we go down the elevator to the place where Tittlin died. I flame up my blades and Momen gives us intellect Fortitude so that we are more likely to not get stunned. Momen lets me know that Tittlin had actually dropped his bow and that It was a good choice for me to use it for the infinite ammo.
+
+We open up the doors to the confine and start battling with the inhabitants which seem to be just a few ogres and maybe a mindflare or two. Spesof seems to be acting weird. I manage to get a lantern down and Momen continues to get beat with Javelins. In an effort to sneak up behind the hiding Mind Flayers by ghosting up and heading through the northern walls but run unto some unsuspecting Mind Flayers operating what looks like a giant circular thingy with runes on it. I do manage to sneakily assassinate them before they notice me. Just after I do so I hear a loud bang in the other room where I walk into and see that momen had completely ended the lives in that room with his giant ice blast thingy
+
+I lead them into the room to look at this Giant pool of liquid with some overlapping circles on it. None of us are aware of any idea of what this is. Given that information, we decide to leave. We decide to check out the path that the Mind Flayer took Tittlin down and ran into another Mind Flayer. Hearing Spesof call out, I decide to go through the wall and happen to accidentally pop up right behind him and end his life. In this path, theres a pool of acid that appears to be where they throw the dead bodies.
+
+We decide to press forward into the last path that was in the main room. Being the silly Goose I am, I phased through the wall right into a Mind Flayer but was able to get the jump on him before he could get me with the help of Spesof and Shifty doing absurdly cruel things to one of them. However there was a third Mind Flayer off in the distance that managed to do some mind flayer things against all of us.
+
+Spesof appears to get stunned by one of the mind flayers but it doesnt last long. He does go on to complain that his head feels like has a lot going on inside of it and then bursts hurting Momen and I in the process. This pissing off momen, he comes up and just bonks the living hell out of the last mind flayer. Spesof in the aftermath falls to his knees as his head starts to feel like its exploding. Momen and I quickly go over to help him before it becomes a major issue. This appears to be the last of the Mind Flayers in the whole cavern. Being Ghostly, I use my wall phasing abilities to phase through the walls and Accidentally find a room which has some sort of peculiar ranged weapon in it, which I pocket for the time being. In doing so, I discover that the Strange walls are illusory and we can just walk through it. This prompts me to realize that a wall I found earlier was also illusory which we walk through and find a strange black hole at the end of.  This is where Momen finds a magic rope of climbing.
