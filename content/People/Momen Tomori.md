@@ -2,8 +2,9 @@
 tags:
   - People
 location:
-  - Ishtarim
-  - Wustus
+  - "[[The Empire of Datrus]]"
+  - "[[Wustus]]"
+  - "[[Ishtarim]]"
 race: Mountain Dwarf
 born: Chthonia 21st, 569
 citizenship: Oscyian
