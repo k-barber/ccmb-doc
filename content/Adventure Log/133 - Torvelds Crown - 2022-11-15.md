@@ -8,7 +8,7 @@ We then plan our return to cedercomb with a quick stop to farquad to make sure h
 
 We head back to [[Cedar Combe]] and [[Merric Porridgepot]] and [[Goras Kelrieth]] (Bald Eagle) give me the hear breaking news that it is going to be very hard to tame the beast so this is going to take quite some time
 
-I come up with a plan to go to [[Qymera]] the dragon from yonder and see if he can help guide me to train the drake to be an ally. In the mean time we prepare all sorts of other stuff like moms information and spesofs homework
+I come up with a plan to go to [[Qymera ― The Puny]] the dragon from yonder and see if he can help guide me to train the drake to be an ally. In the mean time we prepare all sorts of other stuff like moms information and spesofs homework
 
 We get a long rest and plan for our journey to Qymera and afterwards to Farquad
 

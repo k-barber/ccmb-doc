@@ -12,5 +12,5 @@ date: 2021-07-25
     - Hadrian normally keeps ships away from the spire, with the exception of Spesof's father
     - many were annoyed by this
 - Hadrian showed 5-0-13 a statuette of a dragon
-    - name "[[Avyrth]]" popped into your head
+    - name "[[Avyrth ― The Tender]]" popped into your head
 - Party decided to send Eva to the Spire of Dizif

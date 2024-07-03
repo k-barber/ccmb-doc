@@ -18,6 +18,6 @@ date: 2021-03-14
 - Tittlin takes the ~~shit~~ shot
 - The brass dragon called the other kobolds
 - The kobolds came and beat the shit out of Hamish
-- The brass dragon introduces itself as [[Qymera]] and thanks the party for their work
+- The brass dragon introduces itself as [[Qymera ― The Puny]] and thanks the party for their work
 - Tittlin tries to open a chest and gets paralyzed
 - Johanna gets covered in boiling oil and water

@@ -41,7 +41,7 @@
 - Broken and spilled reagents, scorch marks on the floor
 - Specimen on pedestals at back
 - Magical power conveyed through runes on floor
-- About to say "Clean up your workbench!" when I notice the power of the archmage
+- About to say "Clean up your workbench!" when I notice the power of the [[Archmage Ozrasa|archmage]]
 - recognize each other as necromancers
 - introductions
 - Tittlin wanders in and starts looking around

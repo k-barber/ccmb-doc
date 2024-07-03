@@ -1,9 +1,11 @@
 ---
 tags:
   - People
+  - Deceased
 location:
   - "[[The Empire of Datrus]]"
 race: Human
+rank: 
 born: 
 died:
 ---

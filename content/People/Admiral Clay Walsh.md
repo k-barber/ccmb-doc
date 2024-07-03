@@ -1,6 +1,7 @@
 ---
 tags:
   - People
+  - Deceased
 location:
   - "[[The Empire of Datrus]]"
   - "[[The Great Badger Expanse]]"
