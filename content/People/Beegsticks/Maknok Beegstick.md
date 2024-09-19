@@ -2,13 +2,14 @@
 tags:
   - People
 location:
-  - "[[The Empire of Datrus]]"
 race: Half Orc
 rank: 
 born: 
 died:
 ---
 <p style="text-align:center;"><img src="https://foundry-vtt-kb.s3.us-east-2.amazonaws.com/Images/Tokens/NPCs/Nobles/" width="250" height="250"></p>
+
+Husband of [[Alyss Beegstick]]. Father of [[Spesof Beegstick]]. Brother of [[Kerghug Beegstick]].
 
 The Viscount of Wyrmwood gave you a lot of documents relating to your father's disappearance, so it will take some time to go through. As you find relevant information, it will be added here.
 ## What you know
