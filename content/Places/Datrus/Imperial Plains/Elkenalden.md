@@ -1,3 +1,5 @@
-The capital of [[The Empire of Datrus]], located on the west side of [[The Imperial Plains]].
+The capital of [[The Empire of Datrus]], located on the west side of [[The Imperial Plains]]. It is a city of much historical import and grandeur. 
+
+This city was where [[Aodreia Datrus Ⅰ ― The First Datrus |Lady Melisenda]] began her [[The Datrian War of Independence|revolt against the goblin hordes]]. While it served as her base of operations, it was deemed unfit for the country's capital due to the [[The Datrian War of Independence#The Defeat of the Gray Ear legion|poisoning of the river]]. Since then it has been considered bad luck to drink from the river, and it was only under [[Aodreia Datrus Ⅱ]]'s reign that Elkenalden was named the capital - angering many in [[Wustus]] who wanted [[Ishtarim]] to continue as the capital. 
 
 It houses many notably buildings and people including [[Aodreia Datrus Ⅲ]], [[The Imperial Crypt]], [[Friar Zeckus]], and many more.

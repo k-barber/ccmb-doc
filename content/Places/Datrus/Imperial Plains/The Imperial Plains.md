@@ -1,0 +1,1 @@
+The core of [[The Empire of Datrus|the Datrian Empire]]. This province used to be called Datrus until the name was taken for the entire country. During the early years of the country, it was simply called "Datrus & Wustus". Sometimes the two are still referred to as "Old Datrus".  

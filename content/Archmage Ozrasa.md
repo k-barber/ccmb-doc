@@ -1,11 +1,13 @@
 ---
 tags:
   - People
+  - Mage
+  - Alive
+  - Elf
 location:
   - "[[The Empire of Datrus]]"
   - "[[The Astain Wetlands]]"
   - "[[Swanmere]]"
-race: Human
 rank: 
 born: 
 died:
