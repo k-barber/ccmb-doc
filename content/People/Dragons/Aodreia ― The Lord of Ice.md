@@ -21,3 +21,6 @@ Since then, he has occasionally bestowed his name and power upon beautiful women
 - [[Sofia Datrus Ⅷ]] (allegedly)
 
 Because of this, descending into [[The Imperial Crypt]] to meet with The Lord of Ice is an important ritual for any Datrian ruler-to-be.
+
+## Aodreia's Shield
+A legendary Shield, emblazoned with Aodreia's eye. The powerful magic on the shield allows the Lord of Ice to see the shield's surroundings and communicate telepathically with it's wielder. It is currently in the possession of the [[Aodreia Datrus Ⅲ|empress]].

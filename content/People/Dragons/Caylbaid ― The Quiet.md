@@ -15,3 +15,6 @@ He controls a large section of [[The Astain Wetlands]]. His epithet is "The Quie
 He was helping [[Maglubiyet's Spear]] in their invasion of the Great Badger Expanse.
 
 He has asked the CCMB to help him complete his collection of paintings by [[Euric Mugwort]]. The only painting he is missing is a portrait of [[Aodreia Datrus Ⅰ ― The First Datrus|Aodreia Datrus Ⅰ ― The First Datrus]], which is in [[Aodreia ― The Lord of Ice|The Lord of Ice's]] possession.
+
+## Caylbaid's Scale Mail
+A legendary suit of armor, made of Caylbaid's scales. It is currently worn by his mortal enemy, [[Aodreia Datrus Ⅲ|the empress of Datrus]].

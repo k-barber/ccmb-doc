@@ -47,3 +47,7 @@ This was Truthstride's prophecy about [[Caylbaid â€• The Quiet]] and [[Qyldryt â
 >What do you think, should the beast stay with the elf or return to the beasts?
 
 The CCMB answered that the beast should stay with the elf, tying your fate to The Downfall of Qyldryt.
+
+
+## Truthstride's Past
+According to [[Goras Kelrieth]], Truthstride has been recounting stories for more than 300 years. This is longer than halflings usually live, indicating that he is somewhat unusual. 
