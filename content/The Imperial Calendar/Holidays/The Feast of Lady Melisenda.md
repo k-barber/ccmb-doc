@@ -51,30 +51,30 @@ Only covering official events happening here at the main stage
  - Shops and Stalls will be available through town at various times
   
 **Day 1**
- - 8 - the re-enactment of the Defeat of the Grey Ear Legion
+- 8 - the re-enactment of the Defeat of the Grey Ear Legion
 	 - a cannon will signal the official start of festivities
- - 9 - Band plays [[Blessings in the Cave]], the national hymn of Datrus
- - 11 - Kemany music competition - Ballad Preliminaries
- - 3 - Borsht Battle
- - 5 - Burning of Warlord Shokor
- - 7 - Dance
+- 9 - Band plays [[Blessings in the Cave]], the national hymn of Datrus
+- 11 - Kemany music competition - Ballad Preliminaries
+- 3 - Borsht Battle
+- 5 - Burning of Warlord Shokor
+- 7 - Dance
 
 **Day 2**
- - 9 - theatrical performance of "Alex & Alexa"
-	 - Most of the plays can be caught at the stage outside of Kemany. They will be performed regularly throughout the feast
- - 12 - Radish Race - Charles Trill has been banned this year following the doping scandal, so it's anyone's race
- - 1 - Kemany music competition - Ballad Finals
- - 3 - Kemany poetry competition - Limerick
- - 5 - Sword Dance
- - 7 - Drinking Competition
+- 9 - theatrical performance of "Alex & Alexa"
+	- Most of the plays can be caught at the stage outside of Kemany. They will be performed regularly throughout the feast
+- 12 - Radish Race - Charles Trill has been banned this year following the doping scandal, so it's anyone's race
+- 1 - Kemany music competition - Ballad Finals
+- 3 - Kemany poetry competition - Limerick
+- 5 - Sword Dance
+- 7 - Drinking Competition
 
 **Day 3**
- - 9 - theatrical performance of "The Child Conqueror"
- - 11 - Kemany music competition - Lament Preliminaries
- - 1 - Kemany poetry competition - Elegy
- - 3 - Band plays Grey Ear Dirge
- - 5 - Ballet performance - "The Beginning of Datrus"
- - 7 - Candle lighting memorial 
+- 9 - theatrical performance of "The Child Conqueror"
+- 11 - Kemany music competition - Lament Preliminaries
+- 1 - Kemany poetry competition - Elegy
+- 3 - Band plays Grey Ear Dirge
+- 5 - Ballet performance - "The Beginning of Datrus"
+- 7 - Candle lighting memorial 
 
 **Day 4**
 - 9 - Jerky Joust
