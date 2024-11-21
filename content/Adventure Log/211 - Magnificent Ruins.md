@@ -1,0 +1,27 @@
+- Grazahl the Magnificent comes to the CCMB with a quest
+- Found ruins outside of Cedar Combe that supposedly contain some kind of powerful magical artifact - wants us to retrieve it before his rival Struquam the Daft gets it
+- Rittlin encourages him to distract his rival by taking him to The Piano Man
+- Thrakrouk Hammergranite and Lute Pluck enter the CCMB (Buckingbee Beast Mashers?!?!?!?), claiming they're our competitors and that they were hired by Struquam to retrieve the same artifact
+- Enter ruins quite strangely from below, ascending a ramp. Floor is metal and looks machined, enter into a storage room with lots of crates we don't recognize. Beeping noises are coming from deeper in the structure, as well as advanced magic that we don't recognize.
+- Lute Pluck is really annoying to understand, supposedly it's a weapon that we're trying to retrieve
+- Go down the north hall, see blast marks on the floor and a crystal that seems to be pointing at us as we approach - notice that there's a wall panel that looks similar to where a cable with lightning magic shooting out is protruding from a wall earlier in the hall
+- Pry off the panel using a crowbar with ease. Cut the red wire (same as the earlier severed one) using Shifty. I get a quick shock from it but the turret shuts off and we pass down the hall.
+- Get to end of corridor where there's a door with a control gem as well as rubble blocking the other hall.
+- Rittlin ghost walks through the rubble and encounters a terrible bipedal shadow creature on the other side. He promptly ghost walks back and we continue through the door, apparently not being followed.
+- We run into the BBM and apparently they ran into the creature too but managed to evade it
+- All of a sudden encounter the creature when rounding another corner
+- Retreat into what looks like a large bedroom, inky black shadow enters the room and snuffs out all the lights, including Rittlin's blades and my meteors
+- Become extremely frightened but decide to get angry instead, book it out of the room. Shadow thing chases and does a ton of damage to me, run through another door and close it, after which it stops pursuing.
+- Encounter a quadripedal creature that seems to be guarding a door control - Rittlin tries to phase through the wall but encounters some sort of barrier that prevents this. Moves towards door control and takes some acid spit from the beast.
+- Lute Pluck drags a sleeping Thrakrouk through a door that I open and plops him down next to us. Manages to pspspsps at the freaky dog to get it to chill and roll over, and then opens the south door.
+- Behind the south door is a big sea creature looking monster. Lute Pluck pulls out his lute and casts comprehend languages, and we begin to converse with the large creature and his pet.
+	- Spaceship that crash landed, Thanmaw (big monster) is the captain. Most crew managed to jettison in the escape pods, or were otherwise eaten by the shadow terror which showed up one day on the ship and caused the crash.
+	- Shows us the signature weapon of his people, we ask if we can take that as repayment if we help him repair the ship by restoring electricity (which he explains to us), and he agrees.
+- Thanmaw turns off the defense system and closes all the doors for us to start, and we then head off to reconnect the "wires" for the captain. Lute Pluck casts Mind Blank on me, which supposedly protects against the shadow terror.
+- We run into the shadow terror once again, although it simply doesn't seem to perceive me this time... Rittlin runs off while I attempt to repair wires, getting some assistance with instructions from Thanmaw and eventually getting the defense systems back online.
+- Go through the door and the shadow terror zips into the room next to Rittlin. I drag the bolt through and then ask Thanmaw on the intercom if he can reverse gravity in the room, which he manages to do and make it so that I can float with the bolt.
+- The shadow terror casts something at Rittlin and then suddenly morphs into his form, and begins calling out for me, claiming to have defeated the shadow tyrant. I screw the bolt into its hole and then proceed with the nut, as Rittlin had zipped off to who-knows-where.
+- I finish repairing the engine as I hear Thanmaw talking over the intercom that Rittlin is being injured by something. The door is locked, but Thanmaw manages to unlock it for me, and I quickly zip through and close it behind me.
+- Lute Pluck carries an unconscious Rittlin and Thrakrouk out, and fumbling through communication I realize that Rittlin has the sword in his bag of holding. I thank Thanmaw and wish him well on his travel home. 
+- Back at the CCMB, I get Lute Pluck some food and drink while Rittlin gets Grustelin to look over the sword, which appears to be a crystal greatsword worth nearly 8000GP.
+- Grazahl shows up and we attempt to bargain for the finders fee plus the worth of the item, but he declines and decides instead to let us keep the sword. I give Lute Pluck 100 platinum as a thank you for helping us get through that alive, and he seems satisfied as him and Thrakrouk leave.
