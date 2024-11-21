@@ -1,0 +1,65 @@
+---
+author: "[[Rittlin]]"
+log number: 212
+date: 2024-11-20
+---
+- On the way back from town ( a few weks prior ) Spesof and Rittlin ran into a weird statue in a town
+	- Statue is of Winona Wilber ( a Human in her 30s )
+	- Runes around the statue are there placed by a Cleric named Monty Spring to make the statue come to life
+- Town was hit by a swarm of monsters from a different realm
+- Winona simply killed them all with her bare hands. Not sure how though
+- Monty Spring gets the stuff needed to do the spell and casts it
+- The Barron or something of the town gets very upset and yells to stop him but he does it anyways and surely Winona turns back into a human.
+- The Barron had the statue commissioned by someone to whom we expect turned Winona to stone
+- Winona agrees to sexual affairs with Monty for turning her back into a human
+- Found incriminating evidence that Milo the Barron was involved in the turning to stone
+- We found a mans wedding band on the table in the room (Bernadette's Workshop)
+- We decide to go around town and ask some questions to everyone
+	- Did Bernadette have a husband?
+		- probably
+		- He skipped town, and more secretively the husband is believed to be having an affair with Winona
+	- What was the credibility like of the Affair?
+		- The town gossip apparently has an uncanny ability to tell truth vs fiction and wouldnt stop talking about it
+	- How did Bernadette take the rumor
+		- She was extremely upset about it and made the whole town aware of it
+	- Is there a Coroner in town we could talk to
+		- Yes, its the Barron, but hes unlikely to talk about it
+	- Is ther Barron untrustworthy
+		- Unsure, but he doesnt seem untrustworthy
+	- Talking to Clair the town gossiper:
+		- Winona took advantage of the hospitality in the town *wink*
+		- Town found it strange that Winona disappeared
+		- Milo blocked all attempts to start a search party
+		- Bernadette took her own life a month after completing the Statue
+		- Husband went missing a week after the surfacing of the cheating rumors
+		- There was pushback after the Barron refused the search party
+		- Damian hated Winona because he was the adventurer in town before she showed up
+	- Talking to Clarisse:
+		- Previous Guild manager was obsessed with Winona
+		- the former guild master thoiught that the statue was replaced a year or two later
+		- Agromnte's Adventurer Registration, looks a little like Monty with proper birthmarks and supposedly died at the age of 30 fighting cockatrices
+	- Adventurer Guild Records:
+		- Damian was doing quite well before Winona showed up then income fell sharply
+		- Winona took all the expensive quests
+		- Melchior fulfilled an anonymous request asking for a spell scroll of Divine Word
+	- Talking to Winona
+		- She heard a single word from a man before being flashbanged
+		- She did sleep with Francis the husband of the sculpter
+- Eventually we convince Monty to confess that he is in fact Melchior
+	- he doesnt know who did it, but says he was involved int he anonymous divine word request
+	- He was going to find something to propose with that provided practicality to Winona in her adventures which is what he needed the money for
+- Confronting Milo
+	- He had no hand in any of it other than trying to save money
+	- Likely caused Bernadette's Death because he had her create a statue of the girl her husband slept with and left her because of
+	- had no clue the statue was replaced outside of rumors
+	- says Damian never worked with Damien
+- Damian again:
+	- Something about his wife getting eaten in the events that Winona "Saved the town from"
+	- Found the ring in one of the mouths
+	- His wife was apparently leaving him which was why she wasnt in town
+- We confronted Winona again
+	- Winona was having an affair with damians wife and she was leaving town with her
+	- Damian got a letter from his wife explaining this and it was in terrible condition leading to believe he was very upset about this
+- I snoop through his house without him knowing and find the letter as well as a spell scroll wall with a scroll missing for a 7th level cleric spell which matches divine word
+- I confront Damian about this and he confesses to doing it.
+- I convince him to give us a spell scroll for not putting him in jail and he agrees giving us Level 7 Whirlwind
