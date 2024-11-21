@@ -1,3 +1,8 @@
+---
+author: "[[Spesof Beegstick]]"
+log number: 211
+date: 2024-11-11
+---
 - Grazahl the Magnificent comes to the CCMB with a quest
 - Found ruins outside of Cedar Combe that supposedly contain some kind of powerful magical artifact - wants us to retrieve it before his rival Struquam the Daft gets it
 - Rittlin encourages him to distract his rival by taking him to The Piano Man
