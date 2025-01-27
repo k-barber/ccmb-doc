@@ -1,0 +1,68 @@
+---
+author: "[[Merric Porridgepot]]"
+log number: 217
+date: 2025-01-14
+---
+
+- Costs for the year are $40 per person
+- Tempt Momen with more forbidden knowledge
+- Ben was quite happy with Spesof's arc in Spueria
+  - Solid chunk of character development
+- Other players are intrigued about Tittlin and his character development
+- Tittlin having relationship with Pisces is tricky
+  - Want to use Pisces more
+  - Ben recommends Find Familiar
+  - Really enjoyed switching
+- Next arc - Tittlin & Pisces
+- We've been better at doing things that our characters would do, rather than the more optimal path
+- More fodder in fights
+- Combat
+  - Boss Fights - The Brain
+    - Ben enjoyed it from a mechanical perspective
+      - Enjoyed figuring it
+      - Really nicely balanced as we were killing it while on our last leg
+      - Allowing for room to get creative
+      - The dire troll as well - needing to dump the bag of beans
+    - Matt
+      - Liked it conceptually
+      - Blasts were too fast in the final
+      - Felt nerve-wracking, in a good way
+      - just a bit more fine-tuned at the end
+    - Jobby
+      - Too many spells
+      - Not a lot of time to plan ahead
+  - These days there are lots of stuns on Spesof
+    - seems like every fight, one player gets locked down for half of it
+  - Having mercenaries would be a good idea
+    - Cleric
+    - Bard - Lute Pluck?
+    - Paladin
+    - Druid
+  - Lute pluck was a big hit, thrackrook was whatevs
+  - Momen can change prepared spells once a day
+    - Would help to have a bit of party prep time
+- Cloak of Elvenkind
+  - Workshop it a little bit
+  - Need to narrow
+- Ben would rather have IPv4 on it and cover the bill - about $40
+- Want to do another in-person
+  - Matt is free April, May, June
+  - Do a weekend sometime between April - June
+- Matt can't do a full political session
+  - Sessions are fun, but hard to keep focused
+  - Ben says it's easier to do a full roleplay session in person
+- Momen is interested in relaxing during the festival
+  - Not exciting roleplaying
+  - Pick up the pace
+- Matt enjoyed the adventures
+  - Folduin arc - felt that you were getting closer and closer each session
+  - Mind Flayers
+  - At the end of the session, felt that he was still engaged and invested
+  - One-shots are still good
+  - Individual battles are less so
+- Use the Quest Log more
+  - Have to pick one or the other
+  - benefits and consequences
+  - Clean it up a little
+- Have the party agree on what we want to do next
+  - Next up is Momen's dragon hunt
