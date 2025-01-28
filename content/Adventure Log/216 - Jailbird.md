@@ -120,3 +120,4 @@
 - Durlan gives us his card (tonnes of details)
 - Durlan apparently has black dragonscale armour ("took it himself")
 - Discus research and dragon slaying
+- Spesof bought a painting of a navigational constellation from around the time he recovered his father
