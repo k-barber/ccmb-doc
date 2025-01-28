@@ -1,0 +1,122 @@
+- Floating disk Spesof off stage
+- Drink a bit further
+- Head back for the night
+- Morning
+- Spesof still a dinosaur
+- Looking panicked
+- Goras already gone
+- Spesof indicates for food and drink, Momen provides
+- No cheap/easy way to reverse the polymorph
+- Unusual that it's gone on for so long
+- Head to the main stage to see if we can find an organizer who know what's up
+- Ask organizer's what's up
+- Unusual susceptability
+- Permanent?
+- Wive's tales about pemanant squirrel
+- Concerned growl from Spesof
+- Tit tries to appologies for spesof's behaviour, calling him a looser (because he lost)
+- Spesof flops onto side
+- Recommend searching for a druid
+- Tittlin says he won't pay for fixing this
+- Spesof swipes at him from ground (dodge)
+- Head to market in search of druid
+- Spesof and Motley Crouton make noises at each other
+- Looking around market for a druid
+- Tittlin wanders into the guard house
+- Wanders back out saying we need to find a painter
+- Looking for an elf painter
+- Find one, does not look like a druid at all, fancy white and gold osentatious clothes
+- Recognized as one of Emerford Elves (forest beurocrat) (meticulous ledgers on desk)
+- Durlan Chaepetor
+- Momen wonders how much of a pain in the ass this is going to be
+- Tit starts commenting on clothes and painting
+- Spesof gives Huskey yowl
+- That's your first problem, it's a tapestry
+- Tit tries to shush him
+- Try to get tit on topic
+- Tit tries to sell famous tapestry (life of Sophie)
+- Momen flabergasted
+- Painter, not dealer
+- Move onto problem
+- "Sorry, that was rude"
+- Still need greater restoration
+- He can do it,
+- Proper introductions
+- Notice paintings are of night skies from specific dates, not the date they were paintings
+- Recognizes us as CCMB
+- Trade of services
+- Back-scratching, tit: spesof has long nails
+- Settle down, declined house
+- Grouse about human bureaucracy
+- Arrest warrent in Gale-Gulch, hasn't ever been
+- We go and sort it out and he'll fix spesof
+- "Not as persuasive on all fours"
+- You think so? That was rude.
+- Says greater restoration
+- Unknown reason for warrent
+- Tit want's to know where he's been for past year
+- Shake hands with spesof
+- Debate him coming with
+- Cat, crow -> Pices
+- You named a bird after a fish? thats - Sorry, that was rude
+- Summon Pices to show Durlan
+- The two birds chatter
+- Your bird is intellegant
+- I hope so, I've been hanging with him for a few many year
+- Head off to gale-gulch
+- Head to wanted poster boards outside guard post
+- See titlin with mustache
+- Don't see him
+- Head to guard post, ask guard, says unlikely to be a mistake but takes us to chief
+- Short man with mustache
+- Crow complains about amount of papers
+- Sush, attracts chief attention
+- Ask chief about warrent
+- Durlan mutters where it is
+- Pisces, get it!
+- Fraud, filed by adventures guild
+- Failed to complete quests
+- Payment collected for faked quest completion
+- Spesof side-eye to crow, crow shakes head and warks
+- Bonksteel Murnig reported it
+- Only need to go to the adventurer's guild
+- Tit jokes about blowing up his house
+- Chief tells him off for joke
+- Leave and argue about tit getting us arrested and urgency of issues
+- Ask around to find Bonksteel
+- Receptionist
+- Available at 9:30
+- Spesof heads to bar, asks for hangover cure, gets hair of the dog
+- Spesof says it's probably someone disguised as Durlan
+- Talk to Bonksteel
+- Evidence
+- Magic spell components for illusion spells
+- Description matches except for outfit
+- Was adventuring here over 3 months, nidhog to mardle
+- Registered elsewhere, showed adventuring license
+- Verified security features on license
+- Point out that the compoents aren't druidic and that it would almost be a wash if he was hiring someone else
+- New license would be able to prove if old one was ?wrong?
+- Tit goes to washroom
+- Tit comes back, with adventurers card
+- Claims he gave it to him before we came
+- Suspicious, has card checked
+- Previous was stolen!
+- Paper detailing it was under desk (winces)
+- Tit mentions dark something or other (dark sun!?!)
+- They're here in lobby
+- Not enough to arrest them on
+- Rescinds arrest warrant
+- Should cross-check rest of list to check for other impersonation
+- Durlan reveals himself so he can help beurocrat, also locate object on old card
+- Card is in the building
+- Head down, durlan as bird
+- Points at Dark Sun group
+- Sit down at table behind them
+- Bird points at wizard
+- Former student, Iris
+- Recognizes, small talk
+- Guards pour in, arrest them and drag them off
+- Durlan gives us his card (tonnes of details)
+- Durlan apparently has black dragonscale armour ("took it himself")
+- Discus research and dragon slaying
