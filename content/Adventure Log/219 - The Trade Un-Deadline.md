@@ -1,0 +1,101 @@
+---
+author: "[[Momen Tomori]]"
+log number: 219
+date: 2025-02-18
+---
+- Go to talk to [[Ghurde Gorepunch]]
+- Looking for artifact
+- Narrowed down to GBE/Eastern March
+- Nesting dolls
+- Dedicated to her diety [[Dwarven Pantheon#^BerronarTruesilver|The Revered Mother]]
+- Competing with another temple from the order
+- Made of gold (no known magic)
+- Momen suggests research
+- Tit says ask [[Goras Kelrieth]] or sunny G
+- Turns out Sunny G is [[Warlord Griobiog|Griobiog]]
+- One clue is old abandoned altar between here and [[Devilglen]]
+- Someone thought they saw something
+- No stealing, if they get it first they get the glory
+- Reward: services & silver chalice with embedded moonstone
+- Tit: how much is it worth?
+- Momen: not as much as her services dealing with student
+- Spesof asks how urgent it is
+- Not going to kill us in our sleep
+- Tit goes to ask [[Warlord Griobiog]]
+- Revered Mother is actually truesilver; oaths, records and faithfulness
+- If cleric doesn't know, it's unlikely there's anyone who specifically knows
+- Should probably ask nearby temples to see if they're aware of nearby relics
+- Tit returns with map
+- 3 places on map, abandoned altar, collector's mansion, unknown dungeon
+- Boat to Kortstal
+- No gems chalk
+- 62 gp boat "I sneeze that for breakfast"
+- Arrive at manor
+- Titlin spyglasses into window
+- Flowers are blooming for some reason
+- Tittlin sneaks through them and up to wall, staring through window
+- Flowers appear to be preserved via magic
+- Spesof knocks on door
+- Footsteps, bump on door
+- Open door
+- Butler zombie
+- Gets out, looks at us, grunts, goes back inside
+- Seems to be doing it's job
+- Bumps against wardrobe
+- Spesof opens it
+- Spesof puts vest in
+- Zombie holds out hand, Spesof gives silver coin
+- Zombie nods and sits down on bench
+- Spesof sees knight? in room to east
+- Spesof tries to open room to west, taps shoulder and asks zombie if it's his room, shakes head and grunts
+- Tit goes East
+- Spesof goes south
+- Follow south
+- Fresh food on dining room table
+- Hear Tittlin talking and move back to him
+- Ghost and skeletal guards
+- Tit: can you understand me?
+- Ghost coughs: yes, I can understand you
+- Tit complements on place and staff
+- Unintended consequence
+- Long time collecting many things
+- Put preservation spell to keep things good
+- Plague had conflicting effects
+- Staff dropped like flies before getting back up
+- Ask about relic
+- Confirm one of the knicknames (mother of protection?)
+- Has the smallest one
+- Looking for trade
+- Tit shushes Momen about tapestry
+- Don't look religious
+- Explain that we're trying to get it for a cleric of the order
+- Start looking through inventory
+- Tit tries to sell her on goblin moron cap
+- Stunned at it
+- Who made this?
+- Why?
+- Avid hat collector (points to 4 hats)
+- Doesn't look convinced,
+- Offer universal solvent and dust of dryness in addition
+- Weird trade, but OK
+- Make trade
+- Tit asks about what else
+- Mention an ancient wizards hand
+- Vecna!
+- Torn
+- Can I see it?
+- No
+- Can't afford that anyways
+- What for tapestry?
+- Historical artifact
+- Perks up
+- Life of Sophie
+- Cut out part
+- Depicts her giving birth to a child
+- AKA the heretical part
+- Quite interested
+- Start bartering over equipment
+- Staff of power
+- Oathsworn bow
+- Enspelled bow (incineration)
+- Trade Tapestry, Staff of Striking, Staff of Swarming Bees, Lantern of Revealing and gems for the Staff of Power and the Enspelled Longbow
