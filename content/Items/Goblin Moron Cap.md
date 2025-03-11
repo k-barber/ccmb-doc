@@ -1,0 +1,1 @@
+A magical, conical cap that says "moron" on the front in goblin. It reduces the intelligence of anyone who puts it on.

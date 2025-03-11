@@ -1,0 +1,1 @@
+A tapestry depicting the life of the famous Saint Sofi. The part depicting her giving birth to a child was cut out as heretical and found its way into the hands of [[Tittlin]].
