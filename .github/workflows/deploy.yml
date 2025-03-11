@@ -21,7 +21,7 @@ jobs:
       - name: Build
         uses: konstfish/quartz-build-action@v4
         with:
-          source: docs
+          source: content
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
   deploy:
