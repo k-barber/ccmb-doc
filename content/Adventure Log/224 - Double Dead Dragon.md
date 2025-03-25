@@ -1,0 +1,106 @@
+---
+author: "[[Momen Tomori]]"
+log number: 224
+date: 2025-03-24
+---
+- Run through passwall from generator room
+- Panicked running south with [[Ghurde Gorepunch]]
+- Dracolich squmashes way through wall
+- Spesof comes in from West and brings horn and meteors
+- Remember that regen is not instant
+- New plan - keep away distraction while we kill it
+- Tit immolate
+- Leaps and rend, blocked by shield spell
+- Clever little thing
+- Einherjar swinging
+- Toll the dead does nothing
+- I take that back
+- Regardless of what you think, goes through east wall into wraith room, moving along top wall away from wraiths
+- Hear shrieking
+- Close vault to re-awaken wrinkle
+- Ask to keep undead away from dracolich control
+- Hear the sound of the antimatter rifle
+- Ask Spesof how much that did
+- Get sense of others fighting the lich through the link
+- Another roar
+- Ask if I'm clear to sinkhole
+- Spesof yelling in fear
+- Tit says yes
+- Not right beside me!
+- Step back through wall
+- Gravity sinkhole in doorway (remaining Einherjar are feared & mostly dead)
+- You again, are you enjoying this
+- Squeeze phylactery in response
+- Leaps, attacks, both reduced & low damage
+- Maintain concentration
+- Shield another rend
+- Changes targets to Einherjar
+- Spesof screams as he fires another antimatter round
+- Leaps past into generator room, swing and miss
+- Tit asks Wrinkle to close generator room door
+- Asks if it has undead fortitude
+- Don't know
+- Hear it make another leap
+- Rubble falls on Spesof
+- Ghurde asks if we're chasing
+- Yes, plan to stun, wait until I do it
+- Go around the corner
+- Now who's the idiot?
+- Power word stun (Dwarvish)
+- Get'em!
+- Tit not close enough T_T
+- Daylight!
+- Stun fades as Einherjar charge
+- Spesof lets us know that he's made his way out of the rubble
+- Lich breaks stun, pounces on Einherjar
+- Feel necrotic energy pulling life out through my scratches
+- Leaps at me again, clawing against stone
+- Swing and miss
+- Tit shoots overhead and kills it
+- One last breath weapon hitting me and Gherd
+- Hits hard
+- Stone investure fades before it dies
+- Check on Gherd
+- You sure know how to make an old lady suffer
+- Gather round
+- Mass cure wounds
+- Double check that breaking Phylactery won't revive lich
+- Whaling on it doesn't work
+- Ghered passes it to tit, dunk it in acid and it fades away
+- Tit & spes ask about basement
+- Catacombes!
+- Spes asks momen about looking at circle
+- Busy lensing
+- Can't fit lich in bag
+- Gently pack up Nyx in hopes of fixing her up
+- Investigate circle
+- Doesn't make any arcane sense, likely define
+- Ask Wrinkle
+- Only knows that energy is drawn from it?
+- Doesn't know anything about the weapon
+- Decommissioning procedure is turning things off and opening doors
+- Catacombes should be empty, but could be a bear or something given it's been abandonded
+- That's cursed, isn't it
+- Yep
+- Don't like leaving cursed items around as you tend to find them in your back later
+- Head to artifact vault
+- 2 chests, one shielded
+- Dolls in the unshielded chest
+- Give it straight to Gherde
+- Debating how to carry both the lich and wrinkle
+- Rude to ask a lady her weight
+- Rafnar
+- Gherde puts blade in artifact vault
+- Tit scouts catacombes
+- Debating magicking up a cart
+- Relent about calling Rafnar
+- Shows up, revolted at Wrinkle
+- What about the undead
+- Decomposing
+- Lights begin to go out
+- Many doors closing
+- Group up
+- Rafnar going to charge us double for all that we're moving
+- Teleport back to Atlanta
+- Scare off some farmers
+- Debate mobility aids for Wrinkle
