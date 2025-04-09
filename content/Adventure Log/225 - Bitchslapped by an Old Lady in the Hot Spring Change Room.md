@@ -1,7 +1,7 @@
 ---
 author: "[[Tittlin]]"
 log number: 225
-date: 2025-03-24
+date: 2025-04-01
 ---
 We debrief and deal with both Wrinkle and the dead Dracolich before heading to bed. Back at the CCMB Spesof reads the newspaper to find out that Tug and Stuff had actually made it into the news along with 3 people dying at one of the competitions. 
 
