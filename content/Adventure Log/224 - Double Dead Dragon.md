@@ -49,7 +49,7 @@ date: 2025-03-24
 - Power word stun (Dwarvish)
 - Get'em!
 - Tit not close enough T_T
-- Daylight!
+- Daylight! (So we can see)
 - Stun fades as Einherjar charge
 - Spesof lets us know that he's made his way out of the rubble
 - Lich breaks stun, pounces on Einherjar
@@ -104,3 +104,4 @@ date: 2025-03-24
 - Teleport back to Atlanta
 - Scare off some farmers
 - Debate mobility aids for Wrinkle
+- 10:00 at night
