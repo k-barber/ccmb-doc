@@ -1,0 +1,121 @@
+---
+author: "[[Momen Tomori]]"
+log number: 227
+date: 2025-04-15
+---
+- Take monster parts to Atlanta
+- Prepping the dragon
+- Tit & spes wait outside
+- Take it downstairs to the altar
+- Tit comes downstairs disguised as griboiog
+- I'll just tell them I'm Gregory
+- Res the dragon
+- Very impressive looking
+- Spesof Calls dibs on naming due to fight
+- Control crystal
+- Head back to Cedar Combe to sleep
+- Tit sleeps on the ground in Atlanta
+- Morning chatter
+  - Tit slept on roof
+  - Spesof recommends sending letter
+- Momen drafts two letter
+  - Nerwora
+  - Home
+- Deciding on what to do
+  - Fletcher?
+  - Merrick: tieflings are persnickety
+  - Goo?
+- Head to Atlanta
+  - Spes asks Tit about dungeon
+  - Yes
+  - Ask mercs if any of them have experience with dungeon
+  - Lutepluck makes sounds of disaster in the dungeon
+  - Gherd has heard of it
+  - Durlan's heard it's a terrible place
+  - Free trip to the teleportation dungeon
+  - Displeased
+  - Decide to go to fletcher as it doesn't sound like anyone's ready yet
+  - Tit offers double pay to lutepluck when we go, if he keeps everyone alive (coin noises)
+- Head off to tunris capital (Goldset) to find info on Ecstasy
+- Not many shops
+- Dock, visit harbormaster
+  - Burly tattooed dwarf with short beard
+  - Give names, recognizes us as CCMB against list
+  - Archduke wants to see us
+  - Go to see him, arrive at breakfast
+  - Invited to breakfast (lots of grain based foods, less meat than expected, but Tunris has alot of grain)
+  - Grandsons and inheritance came up
+  - Adrian (we played a role)
+  - Discussing politics and where we fit in
+    - Mention that we're referred to as the Dogs of Dorthanas (wince)
+  - Alignment with Dorthana's makes sense
+  - Less so with Oberstien (grandson)
+  - What's going on there?
+  - Dorthana's essentially new money, was Oberstein using us to get influence
+    - Set up daughter with Dorthana's son
+  - Knows about the sauna
+  - Knows about cathedral
+  - Believes Alfred is aiming for CCMB, mercenaries for something unofficial
+  - Weaker link to empress
+  - Did bring back arm for her
+  - Group of not-particularly patriotic mercenaries, meeting with the king consort without telling the empress
+  - Tittlin clams up
+  - Momen explains that relationship is mostly personal, no conspiracy, closest thing is Atlanta
+  - Believes me, suspicious of Tittlin
+  - Torveldus facing civil war, you aren't going to do anything like that
+  - Course not, we're not going to kill any person important
+  - Very well, trust you and my grandson
+  - Continue meal
+  - Ask about fletcher
+  - Familiar, not sure, thinks he's still there
+  - Idle chatter before leaving
+  - Momen grills the others about the coup
+    - Noble's spent too long cooped up with too much food, too much time to think and imagine things
+    - What about sauna
+    - Did that when bringing back the journal and asking for help reviving you
+    - Don't remember the sauna, so it seems likely
+    - You guys would tell me, right?
+    - When it was pertinent
+    - That's hope inspiring
+  - Go to fletcher
+    - Wake him up in pajamas
+    - Closed, gold piece for troubles
+    - Looking for information
+    - this is a fletchers
+    - Looking for Ecstasy
+    - Quite a craftsman, but perfectionist which makes it difficult when making arrowheads by the dozen
+    - If you're looking for magical arrows, he's you're guy
+    - He's in locustgate
+    - nother gold for troubles
+- Off to LocustGate
+- Nice, slightly warm temperature, many peaceful fields of grain, no monsters
+- Small town with a bit of industry by the docks to the west
+- Eventually find sign for Vincent's Bulk Arrow Production (crossed out text)
+- Find tired Teifling giving a tired sales pitch
+- Made 500 arrows in the past day
+- Like, arrow that brings a lightning bolt down from the sky
+- If you can think of it, I will buy it
+- Thinks, pulls out arrow with a green, bulbous tip
+  - Slime arrow, sticks things
+- Try convincing him to move to Atlanta (with boyfriend), hard to get him interested
+- Sees dragon outside
+- I'll buy anything you come up with
+- Starts getting excited, let's go! To heck with this place!
+- Isn't this your shop?
+- Nope, I just work here, let's go!
+- Send him to convince boyfriend, we have someone else to talk with
+- Visit nobles
+- Fabian greets us, warm welcome, thanks for giving love of life
+- Would like to talk to Phillip
+- Supposed to be chaperoning
+- Unsupervised time with bride to be
+- You two behave yourselves
+- Discuss trade routes
+- Initial places are (x & x, spuria & wheat)
+- Meet Ecstacy and Elromeo, boyfriend is arguing and not sold on it
+- Not convinced that we're the bigshots we say we are
+- Titlin talks out 50 platinum as pocket change
+- Well, you're rich, but I don't believe this CCMB thing
+- Take to Phillip to get endorsement
+- The genuine article, I'd trust these men with my life
+- Elromeo is stunned, agrees
