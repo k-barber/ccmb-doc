@@ -1,7 +1,7 @@
 ---
 author: "[[Momen Tomori]]"
-log number: 
-date:
+log number: 206
+date: 2024-09-24
 ---
 - Farm in [[Wustus]]
 - Farmer Carl
