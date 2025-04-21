@@ -3,6 +3,11 @@ author: "[[Momen Tomori]]"
 log number: 227
 date: 2025-04-15
 ---
+I start the slow process of preparing the dragon for raising, starting with the scrubbing of scales and cleaning out of wounds. This takes the better part of an hour during which [[Tittlin]] and [[Spesof Beegstick|Spesof]] wander off for more exciting things. The next step is the most difficult. Using a large selection of knives and hatchets, I work my way into the dragon just back from the rib cage. The work is... relatively clean thanks to the blood being previously drained, but I'm still glad to have switched into clothes that keep it out of my beard. I work my way forwards over the next half hour, carefully removing unnecessary organs until I reach the cold, dead heart. Removing it as gently as one can, I set it down in the waiting tray beside the other viscera.
+
+The heart removed, I begin fashioning its replacement. I take the salamander heart and fasten it to a waiting stand, inserting funnels to the upper vena cava and corking the lower one. On a separate vial I use my tattoo and finger to mark out the runes for an enchantment. I pour in the giant crocodile blood and set it above a flame, the enchantment protecting it from the heat as it begins to bubble. As faint lines of smoke indicate the enchantment is nearing its limit, I pour in the lava-like elemental essence. Quickly corking it, I remove it from the flame with a gloved hand and swish it around, blending the glowing mixture together.
+
+With the mixture prepared I return to the salamander heart, pouring it in through the funnel until the mixture begins to dribble out the other end. As the heart begins to glow and beat, I draw a short set of runes on its front,
 - Take monster parts to Atlanta
 - Prepping the dragon
 - Tit & spes wait outside
