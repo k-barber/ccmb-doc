@@ -1,0 +1,48 @@
+---
+author: "[[Tittlin]]"
+log number: 228
+date: 2025-04-21
+---
+- Left Locustgate and back to Cedarcombe with the fletcher
+- We drop off Ecstacy and Elromios in Atlanta and give them the tour
+	- Gave northeast building top floor to Ecstasy for his fletchery workshop
+	- Elromios is planning on setting up shop in Cedarcombe for the time being until Atlanta gets a little busier
+	- I talk to Ecstasy about the specialty arrows and hes says that we have to wait in order for him to stabilize his prototype arrows before we can purchase it
+- Just before we are about to leave for the dungeon, we get a sudden Were-Rabbit that runs into Atlanta
+	- Came form the Semi-elemental plane of chocolate
+- Momen uses the Rope of Climbing to tie up the Were-Rabbit
+- We all try to disarm the rabbit but after momen and spesof fail, I do so successfully and throw the weapon away
+- Momen and spesof try to knock it unconscious and eventually succeed
+- Momen talks to the guy who brough back the bunny
+	- theres a portal near by that takes you to the chocolate plane
+	- name is Sean Hammond
+	- He wants to open up a chocolate amusement park that is half park half zoo
+	- All animals that enter the plane eventually turn into chocolate
+		- this is permanent and cant be undone
+	- The portal is basically visible from Atlanta
+	- We kill the bunny and harness the chocolate
+	- theres a whole cult of were-rabbit weirdos that ran in once the portal was opened
+	- We need to close the portal
+		- We need to go collect the power crystals used to charge the machine that controls the portal. The crystals look like Easter Eggs
+	- Guy has made bunny suits that protect you from the elements of the plane
+- We head off to go look for those power crystals so we can solve the portal issue
+- I find an Egg Hunter and swiftly kill it but it spews out some poison and i get poisoned
+- Spesof finds an egg in a cave
+- I spot a guy in a tree and Momen gets his dragon to take him to safety away from the owlbears
+- Spesof goes wandering around and gets flanked by an egg hunter
+	- in the middle of the battle the egg hunter turned into an ice shield?
+		- Slashing damage isnt as good anymore
+	- Momen goes over to help with the dragon
+- They defeat the lil guy and take the egg it was looking at
+- I assume position in the middle hill giving me a general view of the area and shoot an adult egg hunter group south west of me
+	- They go hide and mimic the egg which momen goes and tries to retrieve it picking the right egg firsts but tests what would happen by picking the other eggs
+- Momen and I go and deal with the chocorabbit camp to the south west. We tried to be sneaky about it but that didnt work
+- We learn that the rabbits can jump quite a bit and i am not safe on this hill
+- Momen and I get quite a bit of annoyances from the chocobunnies and I fly in the air to get away from them
+- Meanwhile spesof shoots at a normal were rabbit and he walks over and gets offended, shortly after offering up the egg
+- Spesof goes and talks to the thugs that were by the were rabbit
+	- Thugs are ex workers of Sean and they want to get out to get revenge
+- Momen and I collect the egg from the tent of the choco were rabbits after defeating all of them
+- We scan the friendly were rabbit with permission
+- leave
+- Sean hammond got his ass kicked and we closed the portal
