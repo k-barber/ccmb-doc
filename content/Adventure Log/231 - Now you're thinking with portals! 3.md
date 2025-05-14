@@ -1,0 +1,32 @@
+---
+author: "[[Tittlin]]"
+log number: 231
+date: 2025-04-13
+---
+- Momen and I are stuck in what seems to be a prison cell
+- I meander over to the door and notice that it is locked. I try to inspect it for traps but I can't really tell on my own. However, I ignore any chance of trapped lock and pick it anyways, successfully unlocking it and stepping back so that Momen may open the door infront of me
+- Momen opens the door and before he does I let him know how to manipulate the door to keep it stealthy. We do so and momen has the opportunity to peek around the corners notifying that there are two quaggoths in the room.
+- Momen then unleashes some tentacles on the Quaggoths and I prepare an arrow if any of them decide to get into line of sight
+- I can hear through the mental walkie talkie's that spesof and more specifically [[Lute Pluck]] are having quite a lot of trouble in the other room
+- Momen and I discuss our plan of action in order to more efficiently get to Spesof and Lute Pluck. He lowers his tentacles and we run through a purple portal in hopes to get closer
+- Momen gets himself into a pickle and has 2 Quaggoths and a Choldrith locked in on him so he uses a lightning bolt on them but needs me to come in and finish the Choldrith off. The quaggoths continue to beat on him
+- Spesof appears to be getting paralyzed a ton, seems pretty funny from an outsiders perspective
+- Momen and I clear out the rest of the room and plan to go through the next portal
+- I take the next portal and it puts me into a quite spooky room. I opt into hiding so that I can remain undetected by the many many creatures in the room
+- The group now tasks to all get back together. I rummage through the room sneakily and make it back to the original room for floor 2 but need to kill a Chule in the process.
+- We group up and head back to the room with a skeleton with glowing ruby eyes to investigate it.
+- Momen goes up and touches the ruby eyes of the skeleton and he gets teleported to a random room with a skeleton in it that tells momen to "Kill Me"
+	- Skeleton isnt a normal skeleton. Composed in a different way than usual
+	- They have a conversation and it goes on for a while. this guy really wants to die
+	- Theres a Box in the room that I try to get momen to open
+		- there is a necklace in the box per the words of the skeleton
+		- Stops you from dying
+	- Momen opens the chest and finds the necklace
+	- After some time momen gets a telepathic conversation from [[Qyldryt ― The Patient]]
+	- Shes being a rude fuck thats for sure
+	- 
+- Meanwhile. We decide to keep exploring to utilize the remaining time on my spider movement
+- We hop into an untraversed purple portal that leads us to a new room and we start killing and exploring
+	- It ends up just looping us back to the prison room
+- We go back to the Second room with the original roper. I devise a plan to kill the roper and it works flawlessly
+- *end of session*
