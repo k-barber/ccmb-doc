@@ -1,7 +1,7 @@
 ---
 author: "[[Tittlin]]"
 log number: 231
-date: 2025-04-13
+date: 2025-05-13
 ---
 - Momen and I are stuck in what seems to be a prison cell
 - I meander over to the door and notice that it is locked. I try to inspect it for traps but I can't really tell on my own. However, I ignore any chance of trapped lock and pick it anyways, successfully unlocking it and stepping back so that Momen may open the door infront of me
