@@ -1,0 +1,131 @@
+---
+author: "[[Momen Tomori]]"
+log number: 233
+date: 2025-05-28
+---
+- Try to talk to [[Ealdwig]] (internal organs, eyes and bones)
+- Tit trying to get back into dungeon
+- Take out breastplate
+- Ahh!
+- How'd you get that?
+- Off the statue
+- Statue? Wha?
+- Lutepluck gives him food and water
+- Silent crying
+- Breastplate will reinforce effect
+- Debating what to do
+- Heal or off
+- Tit's wants riches in return for offing
+- It's all gone in inheritance
+- Decide to heal him. He can always decide to off himself later
+- Move to put breastplate on
+- What are you doing?
+- It will help you get back 
+- Put it on
+- Can see how he held is arm to scribe the runes
+- Stares for a moment
+- Seems to help and is able to stand
+- Tit eager to go back to dungeon
+- Discussion over responsibility
+- Don't want to leave Ealdwig locked up in room
+- Worried about danger to self
+- Could teleport him out
+- Rafnar
+- Always a pleasure
+- Discus sending Ealdwig
+- Debate CCMB vs fief
+- Merrick has enough on his hands
+- [[Ghurde Gorepunch]], as a cleric, could help
+- Debate sending barrels
+- Barrels of what?
+- Wasn't it in your course?
+- No? Not dungeon crawling
+- Best teleporter in the world
+- How much risk can you tolerate?
+- Decide to not teleport goo, due to risk of contamination if it affects the accuracy
+- Spesof recommends note for ghurd
+- Momen writes it up
+- Send it along with him and advance
+- Head back into dungeon
+- Inspecting the engraved circles
+- Significant differences between the first two, more than expected for change in direction
+- Spesof asks if orientation makes a difference, No
+- Tit starts using one of the pens to fill in the engravings
+- Wonder why it's dimmer
+- Unclear if fluid is drying or not deep enough
+- Spesof tries flicking a drop into the drop
+- Momen examines the first portal tit turned on
+- Matches one of the engravings I first examined
+- Try turning on the other one
+- Doesn't turn red
+- 2 way is significantly different
+- Have only 2 identical portals
+- Check the two way to see if the ends are identical
+- They are not
+- Likely that the two identical portals go to the same place
+- Spesof debates just flooding an engraving
+- Try the first portal
+- End up in drop
+- Wall of force to save us
+- Debate how to avoid further drops
+- Short rest on ledge, Spesof using immovable rod to add extra space
+- Tit fly
+- 1-3 = 2
+- First portal
+- Safe, but one at a time, ledge
+- Go through another first, get another ledge
+- Rooms appear rotated, are we going in a circle?
+- Tit confirms, it's a circle
+- Return to center by middle
+- Mark portal with finger: Danger, Drop
+- Check identical portal
+- Drop to same place
+- Fill out all the portals so Tit can explore them all
+- Filling them up and marking up the drops as Tit comes through
+- Tit finally finds one that isn't a drop
+- Finds a Fomorian, hidden behind a shimmering ?illusion?
+- Tit heads back
+- Goes through brighter portal
+- Just a drop
+- Etching is deeper, fluid has set for longer
+- Goes through bottom portal
+- Floor is lava
+- Sees a young red dragon
+- Returns
+- Another room has a Rot troll
+- Back to fomorian room
+- It was ready
+- Avoid curse of the evil eye
+- Escapes
+- Gets bardic inspiration before the next one
+- Tit jokes the next room is filled with gold
+- Deathkiss
+- Stack up for last portal, right after Titlin
+- Turns out safe , 2 large on end, one small in middle
+- One large portal leads to [[Qyldryt ― The Patient]]
+- Tit knocks on door, human maid opens it
+- Discusses dead guy on floor
+- Tries to spin stopping the goblin war as helping
+- And what about the elf companion
+- It's one elf, how hard could it be
+- There are political considerations
+- Ahh yes, the dwarf who got caught in the trap
+- I didn't build it, it's to stop the monstrosity in the bottom
+- Room likely built for some kind of guardian, wasn't here when I arrived
+- S: Do you know what's down there?
+- Smile, do you wish to know the ending
+- 10 floors
+- S:3rd was a breeze (tit groumbling in background)
+- been here 2 thousand year
+- 10th floor, bird, regular old chicken chained to floor, surrounded by runes in an impermeable sphere
+- T: trusts her more than other dragons
+- Q: smart for an elf, not one of those naturalists. A bit of greed never hurt as long as they knew what not to touch
+- S: Aside from the chicken prisoner, is there anything else to be concerned about
+- Disconcerting toothy grin, that's a surprise
+- Ask about passwall
+	- Explosive runes
+	- May have been able to do it on first floor where the magic is weakness
+- Leave Qyldryt
+- Mark floor with "Ancient Dragon"
+- S: Were you flirting?
+- T: No, just like dragons. Already got a girl.
