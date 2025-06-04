@@ -1,0 +1,36 @@
+---
+author: "[[Momen Tomori]]"
+log number: 234
+date: 2025-06-03
+---
+- We step into the 5th floor portal to find ourselves in a rather large room with some pilars and Elemental Myrmidons
+- The elementals then brandish their weapons and we start combat
+- Spesof and I pick away at the earth elemental
+- Momen uses some rainbow spray that does anything
+- I got stunned by the air elemental and fall to the ground turning invisible again
+- We kill one of the elementals and continue to work away at the others
+- Momen pulls them all into a group
+- I outgrow the stun and take a shot at the elementals but due to still being a little dazed i miss just slightly
+- We keep fighting and the air elemental clearly has it out for me, he throws a red crystal at me but I manage to dodge it as it explodes into a cloud
+- [[Lute Pluck]] farts on the air elemental and finishes off the last of them
+- the emerald eye floating around binds itself to momen making him want to leave but lute pluck reverses the charm and the eye runs away. I swiftly kill it before it gets anywhere
+- I scout ahead and Momen collects the core or something from the elementals
+- I find a goblin and bring the others to see, As they round the corner I see the goblin raise his hand so I kill him. However we didnt really want to so lutepluck revives him
+	- He is an author and writing about the teleportation dungeon. 
+	- I look at the chest for traps while theyre doing so
+	- The goblin gives us some extra information on the dungeon but not very much extra stuff that we werent already aware of.
+	- **He says on the 9th floor there are 3 teleporters**
+		- **One heads to the 10th floor**
+		- **One gets your head nearly bit off and theres a rock near by (middle)**
+		- **One is unknown**
+- We head into the next room and I set up and relay information to the rest of the party.
+- I shoot one of the elementals to start the encounter
+- Spesof gets flung into a red portal
+- We start running through purple portals together in order to try and find spesof but have quite the trouble, eventually stopping in a room where we can fight a single elemental
+- Spesof has a series of events that are extremely unfortunate:
+	- Hes flung into one room with piton barricades that he has to get through with plenty of fire elemental myrmidons
+	- He does get through with some clever blasting and takes the portal to what appears to be hell, a room with many more barricades but multiple layers of Myrmidon shooting directly at him
+- We decide to give up on the myrmidon and head towards spesof urgently.
+- Lute pluck then decides to dimension door to spesof in order to get him out of that location
+- Lute pluck gets him out and momen and I also arrange with lute pluck to be taken out of the dungeon
+- Momen and I finish off the Earth Elemental in the room we were waiting for lute pluck in and he gets us out of the dungeon
