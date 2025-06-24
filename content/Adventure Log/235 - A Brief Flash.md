@@ -1,0 +1,88 @@
+---
+author: 
+log number: 235
+date: 2025-06-10
+---
+- Fisherman comes
+- Other fisherman living on river dead
+- Found smashed up boat when the river dried up due to beaver den
+- Monster with horns, crushing trees like matches
+- Half orc says he probably just kicked it and was dragged off by animals
+- Let's talk about something else, so and so eloped
+- Eloped? No
+- Six people missing?
+- Want to go see this creature
+- Invite man in black as deco-companion
+- Fisherman guides
+- Far as I go
+- Boat should be up by lake
+- Hear crashing tree and flying birds
+- Ignite swords
+- Doesn't know where they came from
+- Travel forwards 
+- Crone
+- What are you boys doing out so late?
+- R: looking for missing people
+- Wendigo
+- What are you doing
+- Suspicious
+- Warning travellers
+- Could do that at edge of town
+- Keep your secrets
+- Head off
+- Hate the rain
+- In fact
+- Turn it off
+- Mis-naming
+- Person calling from the north
+- Can Wendigo imitate peoples voices?
+- Another tree crashing (SE)
+- Owl bear from E
+- Rit steps on twig, still has blazing swords
+- Defeat owl bear, shadow blade
+- Perhaps extinguish the swords
+- Go north to deal with the lost person
+- Sneak up on them
+- Rit spook
+- Has seen monster
+- North
+- Rit wanders off
+- Debate giving torch
+- Hear Rit oh-shitting in the distance
+- Ignites sword, asks what to do
+- Debate climbing tree and just watching it eat him
+- Gust of damaging cold/necrotic air as it charges, chases and slashes at tit
+- Blade dance
+- Swing sword
+- miss
+- Sword burst barely does anything
+- Doesn't seem to have even bothered it
+- Rit and wendigo trading blows
+- Use lightning lure to pull it off Titlin
+- If you can't handle yourself, you could at least run and distract it
+- Upcast sword and swing
+- Shield blocks claws, not bite
+- Hurts like a freight train
+- Jump away in a thunderclap
+- Circle around
+- Find rittlin killing crows
+- Gnawing hunger
+- Rit goes to boat to take lady 
+- Track Windigo
+- Behind me!
+- Shield to block bite
+- Tree and ether
+- Chase miss
+- Reappear, attack, kite, disappear
+- flees
+- Chase after SE
+- W after hear
+- Leaps out of bush at me
+- Shield
+- Steel wind strike
+- Flee
+- Blink
+- It runs off
+- Chase, back off
+- Claws, block the attack, cold knock me out
+- YOU DIED
