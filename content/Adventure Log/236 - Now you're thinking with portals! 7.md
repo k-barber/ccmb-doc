@@ -1,7 +1,7 @@
 ---
 author: "[[Spesof Beegstick]]"
 log number: 236
-date: 2025-06-24
+date: 2025-06-17
 ---
 We awoke on the fifth floor of this cursed teleportation dungeon after a much-needed long rest in Momen's Tiny Hut. I was in rough shape after that beating I took in the gauntlet yesterday, so the rest was essential. When we emerged from the hut, I noticed that all the elemental corpses from our previous battle had mysteriously vanished overnight. This place really does repair itself.
 
