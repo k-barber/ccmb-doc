@@ -7,24 +7,22 @@ After our bruising encounter with the gauntlet, we regrouped and decided to be m
 
 Using Find Familiar, I summon a spider to scout the portals for us. The first portal turns out to be fairly safe, leading to a library with a single [[Emerald Eye]] within. So far so good. I send it Eastward into the next room, which is similarly filled with scrolls. Unfortunately, I can't tell if they're spell scrolls or not. To the south, I can see the giant snake that I'd encountered before. Glork's notes call him [[Thirseekeesz]], and claim that he only asks you to leave, politely yet firmly. I'd still rather avoid dealing with him if I can.
 
+As we wait for the spider to return, Tittlin remarks that we should skip the library to avoid the snake.  
 - Continue on, find cafeteria
 - Debate where to go next
 - Can't skip library!
 - Spider comes back
-- Check another portal
-- Lose connection
-- Travel around room to reconnect
-- Scout several rooms from ceiling
-- Lose connection
-- Titilin gets giant badgers
-- Clear the room to the south
-- Emerald eye reveals stealthed Tittlin (blind-sight)
-- Tit focuses it
-- Momen & Lute pluck deal with Earth elemental at door
-- Air elemental throws teleportation crystal
-- Only takes elemental
-- Spesof and Titlin finish off Air elemental
-- Several elemental cores, one from HP potion
+
+With the spider back, I send it on through another portal. Even after reconnecting once, I'm not able to find anything interesting in the rooms it observes.
+
+As I loose connection for the second time, Tittlin loses his patience and heads to the uncleared room to the south, pulling giant badgers out of his bag and spoiling for a fight. As Titlin disappears from sight, Spesof, [[Lute Pluck]] and I gather at the door and wait for the fight to start.
+Upon hearing Tittlin yelp in surprise, Spesof charges straight to the other end of the room to help him while Lute Pluck and I get bogged down by an [[Earth Myrmidon]]. Strangely enough, I can actually see Titlin.
+
+As we start whittling down the Earth Myrmidon, the clink of a thrown crystal interrupts us. We dodge out of the way as it emits a glowing swirl of air. The whirlwind lasts for a mere moment before it's sucked back into the crystal, pulling in the Myrmidon and causing all three to disappear in a pop. From Titlin's laughter and taunting, it seems like the [[Air Myrmidon]] had aimed it for us.
+
+By the time I turn around, Titlin and Spesof have finished off the other Myrmidons. I take a moment to drink a healing potion before gathering up the Earth Myrmidon core in the empty bottle. We manage to collect several cores from this engagement.
+
+
 - Reconnect to spider
 - In guantlet room
 - Get spider back
