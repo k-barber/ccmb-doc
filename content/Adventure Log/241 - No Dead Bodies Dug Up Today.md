@@ -3,9 +3,11 @@ author: "[[Tittlin]]"
 log number: 241
 date: 2025-07-22
 ---
-What started as an investigation into clan corruption turned into a life-or-death battle when we walked straight into an assassination attempt on Count Yakovich. And let me tell you, I've had better days.
+What started as an investigation into clan corruption turned into a life-or-death battle when we walked straight into an assassination attempt on Count Yakovic. And let me tell you, I've had better days.
 
 The morning brought some crucial discoveries about the tensions in Brandstrad. We'd uncovered evidence of a rigged mining auction, embezzlement, and what appeared to be murder to cover it all up. The dead Coalfoot dwarf, Dordear, had been Baron Bozzec's accountant and had discovered the corruption. When I broke into his house and found his secret compartment (with help from his cousin Jatrig's beard hair to activate the magical lock), we uncovered ledgers detailing systematic embezzlement from Count Yakovich.
+
+After Investigating the Dock some more I decide to go and talk to the harbor master. Turns out Dordear was actually his cousin and he was pretty disappointed with the way the investigation went. I asked him if he was okay with me heading on over to Dordears house to see if i can find any more clues. After investigating the house I find a magical hidden compartment on the inside of his office's desk drawer and ask Momen about it. He lets me know that this seems to be some sort of biological lock, where if you have enough matching DNA, a compartment will open up. After a few attempts on my own with some strands of hair I found in Dordear's bathroom I head back over to the Harbormaster to let him know what I've found. After some persuasion, I managed to convince him to come back with me to the house and try to open up the compartment. Thankfully, He being a relative of Dordear and the extra strands of hair were just enough to trigger the magical lock, revealing a drawer with papers in it. Specifically, Papers that show that the Goldenhorn's have been stealing money from the Count.
 
 The situation was a powder keg waiting to explode. The Goldenhorn clan, led by corrupt nobles and backed by compromised guards, had been systematically cheating the Coalfoot clan out of mining rights while skimming money from the Count. When Dordear threatened to expose them, they had him killed and covered it up through their ally Lieutenant Fisomi.
 
