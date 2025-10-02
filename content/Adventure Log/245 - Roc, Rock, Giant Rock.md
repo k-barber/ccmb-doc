@@ -3,7 +3,7 @@ author: "[[Spesof Beegstick]]"
 log number: 245
 date: 2025-09-25
 ---
-Finishing off at the roc nest by harvesting parts from the big bird. Momen handled the whole process himself - turns out he's got a much better hand for this delicate work than I do. Got feathers, blood, and managed some decent extractions. Good thing too, since these monster parts fetch decent coin and we need every advantage we can get.
+We finished off at the roc nest by harvesting parts from the big bird. Momen handled the whole process himself - turns out he's got a much better hand for this delicate work than I do. Got feathers, blood, and managed some decent extractions. Good thing too, since these monster parts fetch decent coin and we need every advantage we can get.
 
 After that, we met with the Wyrmwood contact in Trondkan about the Katya rescue mission. Turns out the Fossen family banquet is happening just outside town at their estate - the Frozen Palace, biggest palace in Tillnola. The spy gave us useful intel about the family dynamics: there's bad blood between the Count and his son the Baron, with rumors the Baron wants to off his old man. Could be useful leverage, or could be dangerous territory to avoid entirely.
 
@@ -11,7 +11,7 @@ The spy emphasized we need to play it smart at the banquet - show up, mingle, id
 
 While we were planning, Tittlin got himself invited on another hunt - this time for a fire giant. Our pointy-eared friend's got quite the appetite for danger when he should be focused on rescuing his future bride. The hunting party was smaller this time, led by some green dragonborn noble who'd been told fire giants are "easy to defeat." Right off the bat, I knew this was going to be interesting.
 
-The noble pointed us toward a cave where the giant supposedly lived, then promptly sent us in while he stayed back to "coordinate." Typical. Momen scouted ahead with his familiar, but the little spider got squished before it could report back. That's when we discovered the cave entrance was blocked by a massive curtain of leaves.
+The noble pointed us toward a cave where the giant supposedly lived, then promptly sent us in while he stayed back to "coordinate." Typical. Momen scouted ahead with his familiar, but the little rabbit got squished before it could report back. That's when we discovered the cave entrance was blocked by a massive curtain of leaves.
 
 I took the practical approach - walked up with a torch and set the damn thing on fire. That's when the real fun started. Turned out there were two fire giants - one invisible inside the cave, and another that had somehow disguised itself as a rock outside. The rock-giant ambushed one of the knights right off the bat, which was a nasty surprise.
 
@@ -21,4 +21,4 @@ The harvesting went about as I expected - which is to say, not great. I'm still 
 
 Called in Rafnar Jakobsson to help transport the intact fire giant corpse back to the Fief. Two tons of fire giant is more than we can handle on our own, and there's good money and utility in these monster parts. The whole expedition turned a decent profit, which is always nice.
 
-Still some time to kill before the Fossen family banquet. Been thinking about what the spy said regarding the family dynamics. If there really is a power struggle between father and son, that could create opportunities. Divided attention, potential allies, maybe even a way to leverage information about Katya's whereabouts. Though it could just as easily blow up in our faces if we play it wrong.
+Still some time to kill before the Fossen family banquet. Been thinking about what the spy said regarding the family dynamics. If there really is a power struggle between father and son, that could create opportunities. Divided attention, potential allies, maybe even a way to leverage information about Katya's whereabouts. Though it could just as easily blow up in our faces if we play it wrong. I'm looking forward to eating and drinking :)
