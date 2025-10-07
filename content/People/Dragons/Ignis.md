@@ -1,0 +1,1 @@
+A young flame dragon that [[Momen Tomori|Momen]] raised from the dead. First met in [[225 - Bitchslapped by an Old Lady in the Hot Spring Change Room|the hot springs]] and raised from the dead in [[227 - The One Where Momen Almost Finds Out|log 227]].
