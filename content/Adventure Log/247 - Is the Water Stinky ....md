@@ -7,7 +7,7 @@ We wrapped up our dragon and spider situation back at the Dragon's Den and made 
 
 Speaking of simple, there was a notice on the adventure board about the town's water supply getting fouled. Some sour smell coming from the river. Figured it'd be a nice break from dragons and magic dungeons - just find whatever's polluting the water, deal with it, collect our reward. Easy.
 
-I was standing there reading the board when I nearly got run into by some dragonborn who was apparently trying to walk straight through me. Forgot I still had my cloak's hood up from the Dragon's Den - whole invisibility thing. I dropped it and introduced myself. Turns out his name's Silvanus, local hunter from these parts who wanders between towns looking for work. When he realized I was one of the Cedar Combe Monster Bashers, he got pretty excited. Apparently we've achieved "some level of fame" up here. News to me, but I'll take it.
+I was standing there reading the board when I nearly got run into by some dragonborn who was apparently trying to walk straight through me. Forgot I still had my cloak's hood up - whole invisibility thing. I dropped it and introduced myself. Turns out his name's Silvanus, local hunter from these parts who wanders between towns looking for work. When he realized I was one of the Cedar Combe Monster Bashers, he got pretty excited. Apparently we've achieved "some level of fame" up here. News to me, but I'll take it.
 
 Silvanus mentioned he prefers fighting up close with his glaive, though he's got a bow for backup and some kind of breath weapon from his draconic ancestry. Figured having another sword - or glaive, whatever - would be useful, so I invited him along. Better than just me and Spesof stumbling around trying to figure out water problems.
 
@@ -15,13 +15,13 @@ Found Spesof at the tavern nursing an ale, probably still trying to get spider w
 
 Turned out the water situation was significantly less simple than advertised.
 
-We got to the riverbank and immediately rolled into combat. The rocks along the river were these tall twenty-foot formations, and I scrambled up one to get a better vantage point. Good thing too, because there were minotaurs, skeletons, flame skulls, and shadows crawling all over the place. Not exactly your typical water contamination source.
+We got to the riverbank and immediately rolled into combat. The rocks along the river were these tall twenty-foot formations, and I scrambled up one to get a better vantage point. Good thing too, because there were skeleton minotaurs, skeletons, flame skulls, and shadows crawling all over the place. Not exactly your typical water contamination source.
 
 Silvanus handled himself well right off the bat. He ignited his glaive - which apparently he can just do - and charged into melee with the nearest minotaur. Between him and Spesof working together, they made quick work of it. I posted up on the rocks and started picking off targets with my bow. Got a good hit on one of the minotaurs early on.
 
 Then the shadows showed up. Nasty incorporeal bastards that drain your strength with every hit. They went straight for Spesof and Silvanus in the melee, and I watched both of them get weaker with each attack. Silvanus took a particularly brutal hit that dropped his strength by four points at once. Asked him what it would take to reverse that kind of drain - apparently just rest, which was a relief.
 
-The flame skulls were the real problem though. They kept blasting Spesof with fire rays from range while he was trying to deal with everything else in melee. I managed to take one down from my perch, but there were more where that came from. Then we spotted ogre zombies approaching from the southwest.
+The flame skulls were the real problem though. They kept blasting Spesof with fire rays from range while he was trying to deal with everything else in melee. I managed to take one down from my perch, but there were more where that came from. Then we spotted ogres approaching from the southwest.
 
 Silvanus pulled out some kind of lightning spell - not sure what it's called, but it dealt a solid hit to one of the zombies and arced to nearby enemies. Then he switched to his bow to start shooting at range. Good tactical sense for a guy who says he prefers melee.
 
