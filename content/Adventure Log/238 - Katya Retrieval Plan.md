@@ -13,9 +13,9 @@ While I was shopping, Spesof was checking in with the council about our teleport
 
 The big news came when I got back to [[Cedar Combe]] and found a messenger waiting for me. [[Rian Wyrmwood]] had sent word that he needed to see me urgently. Spesof and I rode out to Nightfair immediately - I had a feeling this was about his daughter [[Katya Wyrmwood]].
 
-Sure enough, Ryan was done waiting for the legal system to handle her kidnapping. The Foss family had taken her weeks ago, and while there would be a trial eventually, Ryan wasn't about to wait months when his daughter's life was at stake. Can't say I blame him - if someone took my family, I wouldn't be sitting around filing paperwork either.
+Sure enough, Ryan was done waiting for the legal system to handle her kidnapping. The Fossen family had taken her weeks ago, and while there would be a trial eventually, Ryan wasn't about to wait months when his daughter's life was at stake. Can't say I blame him - if someone took my family, I wouldn't be sitting around filing paperwork either.
 
-His plan was clever, if risky. The Foss family was hosting a banquet in a week's time, and we needed to get inside to gather intelligence on where Katia was being held. Unfortunately, Ryan couldn't get us direct invitations - apparently his requests were blocked. Instead, we'd need to work through a Count Iakovitch from [[Branstrand]], who had a plus-one invitation.
+His plan was clever, if risky. The Fossen family was hosting a banquet in a week's time, and we needed to get inside to gather intelligence on where Katia was being held. Unfortunately, Ryan couldn't get us direct invitations - apparently his requests were blocked. Instead, we'd need to work through a Count Iakovitch from [[Branstrand]], who had a plus-one invitation.
 
 Here's where it gets interesting: this Iakovitch fellow apparently has very specific tastes in men - particularly bearded, broad-shouldered dwarven types. So our plan involves Spesof seducing this count to secure the plus-one, then bringing me along as some kind of retainer or servant. Once we're inside the banquet, we need to identify potential turncoats among the staff - a guard, a cook, and a maid who might be willing to provide information in exchange for coin.
 

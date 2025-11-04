@@ -3,7 +3,7 @@ author: "[[Spesof Beegstick]]"
 log number: 239
 date: 2025-07-08
 ---
-Our next step was gathering intelligence for the Katia rescue mission, which meant a journey north to Brandstrad to charm Count Iakovitch into giving us his plus-one invitation to the Foss family banquet. But first, we needed legitimate reasons to be traveling there and proper documentation.
+Our next step was gathering intelligence for the Katia rescue mission, which meant a journey north to Brandstrad to charm Count Iakovitch into giving us his plus-one invitation to the Fossen family banquet. But first, we needed legitimate reasons to be traveling there and proper documentation.
 
 Before departing, we consulted with Goras about potential monster targets in the Spuria/Tillnola region. He recommended a Remorhaz - a large insectoid creature that lives in arctic environments but generates massive internal heat. Perfect for Momen's dragon restoration experiments since he needed something charged with fire essence. Goras mentioned they're difficult to find since they hibernate for months between feeding periods, but spring was the ideal time to catch them emerging hungry from their lairs. The creature's heart would be valuable even beyond Momen's research, as artificers prize them as continual heat sources.
 
