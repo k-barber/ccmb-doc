@@ -3,13 +3,13 @@ author: "[[Rittlin]]"
 log number: 251
 date: 2025-11-04
 ---
-Seven and I met up again at some tomb we'd both been hired to investigate. Last time we worked together was that wendigo situation - thought I watched Seven get torn apart by the thing, but here he was, mostly intact. Well, except for the arm. New prosthetic, looks magical. Didn't ask too many questions about how he survived or where he got the replacement. We've all got our secrets.
+Seven and I met up again at some tomb we'd both been hired to investigate. Last time we worked together was that wendigo situation - thought I watched Seven get torn apart by the thing, but here she was, mostly intact. Well, except for the arm. New prosthetic, looks magical. Didn't ask too many questions about how she survived or where he got the replacement. We've all got our secrets.
 
 The job was simple enough on paper: retrieve a magical axe from a tomb built by some Purple Witch. The axe had apparently been given to a barbarian ages ago. We found a control panel near the entrance with three buttons - red, blue, and green. Green opened a door, red controlled some kind of defense system, and blue was a mystery.
 
 Hit the green button and a door opened to reveal a room with an acid pit. Pillars stuck out of the acid at various heights, most in rough shape. Bones floating in there too - always a good sign. Spotted two levers on the far side of the room.
 
-Seven can apparently just walk on walls, which made crossing easier for him. I had to jump pillar to pillar. Found a bear trap on one of them - Seven used some kind of rope spell to help me leapfrog over it. Made it to the levers and pulled one. Heard a click somewhere to the north.
+Seven can't apparently just walk on walls, which made crossing harder for her. I had to jump pillar to pillar. Found a bear trap on one of them - Seven used some kind of rope spell to help me leapfrog over it. Made it to the levers and pulled one. Heard a click somewhere to the north.
 
 We experimented with the control panel buttons. Blue drained a massive amount of water from somewhere - turned out there was a fountain system throughout the place. Red we left alone for the moment, figured it might be keeping defenses off.
 
