@@ -1,13 +1,13 @@
 ---
 author: "[[Momen Tomori]]"
-log number: 251
+log number: 252
 date: 2025-11-18
 ---
 We teleported back to Trondkan the day before the banquet. I brought my bell, my ring of x-ray vision, my ring of brightness, my hat of wizardry, and dressed in appropriately formal attire for a noble gathering. Spesof was being characteristically paranoid about his equipment - storing Shifty in amorphous form in a water flask and bringing both his belt of Dwarvenkind and Relsparax's belt. Tittlin, naturally, brought everything.
 
 There was some discussion about bags of holding and whether we could trust coat check. I pointed out the obvious - if you put a bag of holding inside another bag of holding, it explodes. Same with portable holes. Basic extradimensional physics that any first-year student should know, though I suppose adventurers don't always get that kind of education.
 
-Count Yakovitch met with us before the event. The mining disputes and corruption cases in Brandstrad are slowly getting resolved - turns out there was significantly more shady dealing going on than anyone initially thought. The iron golem that attacked him finally went down, though apparently it was built like a brick shithouse. I almost commented on how a single well-placed spell could demolish such a structure, but thought better of it. Not the time for academic pedantry.
+Count Yakovitch met with us before the event. The mining disputes and corruption cases in Brandstrad are slowly getting resolved - turns out there was significantly more shady dealing going on than anyone initially thought. The gold golem that attacked him finally went down, though apparently it was built like a brick shithouse. I almost commented on how a single well-placed spell could demolish such a structure, but thought better of it. Not the time for academic pedantry.
 
 We asked about the Fossen family and any topics we should avoid. There's some dispute about succession - Count Snorri Fossen's son is eyeing his father's position rather greedily, and it's the older count who's been pushing the issue with the Wyrmwood family. Yakovitch knows the count fairly well through business dealings, less so the son.
 
@@ -19,7 +19,7 @@ The banquet itself was quite the affair. We all arrived together as Count Yakovi
 
 Before we even entered the banquet hall, Tittlin noticed something concerning - a small drop of blood on the ground near the entrance. He made some excuse about wanting to investigate a tree on the lawn and wandered off. Turned out there were tracks in the snow leading around the corner, where some guards were beating up another guard. Racism within the ranks, most likely. That's where he caught the name "Lorson" - the victim of this particular bit of brutality.
 
-I ended up in conversation with a Marquis and Count Fossen himself. The count had heard about our various hunts - the roc, the fire giants, the remorhaz. We've been covering quite a bit of ground lately. He mentioned that monster hunting is a major part of the economy up north, and if we were looking for work, he could put us in touch with people. Even asked how we felt about taking on dragons.
+I ended up in conversation with the noble who lead the raid on the fire giants. a Marquis and Count Fossen himself. The count had heard about our various hunts - the roc, the fire giants, the remorhaz. We've been covering quite a bit of ground lately. He mentioned that monster hunting is a major part of the economy up north, and if we were looking for work, he could put us in touch with people. Even asked how we felt about taking on dragons.
 
 Dragons. Now that's interesting work, though I kept my enthusiasm measured. I made some idle conversation about the Monster Bashers looking to expand their operations, see what opportunities existed in other regions. Professional networking, essentially, though with an ulterior motive.
 
@@ -31,7 +31,7 @@ Spesof, meanwhile, was thoroughly enjoying himself sampling the various food and
 
 Later, Spesof ended up in the art gallery, which wasn't particularly extravagant but quite good for a province like Tillnola. He ran into Baron Escola and his daughter Nicole - the lady we'd rescued from the roc attack. They were grateful, naturally. More importantly, Spesof noticed one of the cooks leaving the gallery with a small painting that had been on the wall. The cook had an anchor tattoo on their arm. Another potential target.
 
-The baron also provided some useful information about the local dragon situation when Spesof asked about it. Apparently there's a white dragon - or possibly black and white? - that's been around for as long as anyone can remember. It's considered something of a good omen because it hunts other large monsters and generally ignores humans. Recently it seems to have been behaving differently, heading out toward something. Bigger fish to fry, perhaps.
+The baron also provided some useful information about the local dragon situation when Spesof asked about it. Apparently there's a white dragon - or possibly black and white? - that's been around for as long as anyone can remember. It's considered something of a good omen because it hunts other large monsters and generally ignores humans. Recently it seems to have been behaving differently, heading out to Nidhogg? Bigger fish to fry, perhaps.
 
 So far, we've identified four potential contacts we could flip: the miserable potato peeler Spesof had spotted in the kitchen, the cook with the anchor tattoo who'd stolen a painting from the art gallery, Rebecca, and Lorson. Good progress for not having been here too long. The real work of convincing them to turn informant would come next.
 
