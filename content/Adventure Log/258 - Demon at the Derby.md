@@ -1,6 +1,6 @@
 ---
 author: "[[Spesof Beegstick]]"
-log number: 257
+log number: 258
 date: 2026-01-21
 ---
 We made our way into Raksuu, and honestly? The place hit different than I expected. It's way up north, and there's this severe wealth inequality everywhere you look - sprawling mansions with gold-tipped roofs right next to beaten-down tents in the middle of winter. The river's frozen almost all year round, so there aren't even any docks. Despite all that, there's clearly money flowing through here somehow.
