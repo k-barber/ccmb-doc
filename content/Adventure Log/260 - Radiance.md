@@ -23,6 +23,15 @@ I remember the laurel dissolving, but so distracting is the ichor that that's th
 
 As if to emphasize the lack of visibility, one last arrow from Tittlin embedded itself in the ground where Eclipse had stood. We called up to Tittlin, letting him know the fight was over.
 
+TM Opera O, ever the show boater, lined us up and congratulated us, and themselves. Mostly themselves it seemed as they went on. She asked us our names and I struggled to get a proper introduction in through Tittlin's sudden tall tale about me being the grandfather of the group. Opera was infinitely unflappable, accepting each of Tittlin's revisions unquestioningly.
+
+As Opera exulted in their accomplishments, I looked away so that I could see something other than the blinding light and began to realize just how much carnage had taken place in the stands. As Opera assured us the government had insured the race, my eyes came to rest on the Count's head, now cleanly removed from both literal and metaphorical bodies of government.
+
+That drove the situation home clearly. The count was dead and we would be presumed co-conspirators. The thought kept running through my mind, putting me on edge as Opera went on about plans to master knitting next and showed how she could find anyone who called her name with a magical map. After one last cheer using a glass of wine conjured from who knows where and held in a freshly regrown claw, Opera helped Donna up onto her back and disappeared with a tally-ho.
+
+With Opera gone, Spesof and Tittlin went straight to looting. Including, much to my consternation, the Count himself. The only thing that I took was Opera's abandoned hand, seemingly forgotten by everyone including Opera herself. I packed it away, thinking it was better than leaving it for who knows who to find. There wasn't much else to find, and what else there was was rendered insignificant by the winnings we received after going over to the intact stands. Though the magnitude of the winnings did little to ease my worries, having some time to think on the way back to town did. The surviving crowd had probably been most terrified of Eclipse, and seeing us both work to fight Eclipse and prevent the necromancer's self immolation would probably leave them seeing us more as protectors than assassins. And even then, they'd probably remember TM Opera O and her flashiness far more.
+
+Back in town, it turns out I was right. Tittlin was insistent on checking the hunt board again and it was cleared just as we entered. In the place of everything else was a single hunt for TM Opera O, with a reward that made even our winnings look poor in comparison. We asked around about for gossip to see how the public was taking this, but it seemed like we were some of the first back from the derby. Spesof certainly seemed to give more gossip than he heard in return. The one thing we did learn was that most of the racers had returned with the exception of Secretariat, Sweep Tosho...
 
 - Right after necromancer consumed (Eclipse creepy smile)
 - Spesof takes aura damage
