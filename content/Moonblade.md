@@ -1,0 +1,1 @@
+A legendary sword retrieved from the abandoned dwarf fortress near [[Cedar Combe]] by [[Lathaeril]].
