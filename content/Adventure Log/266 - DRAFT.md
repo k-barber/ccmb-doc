@@ -1,3 +1,77 @@
+- [[Momen Tomori]] in library with [[Spesof Beegstick]]
+- Incredibly dusty, books practically invisible
+- 1" of dust
+- Guard asleep by the wall
+- One other elf, can see order he's read the books based on how dusty they are.
+- Bothered by dust
+- Gust it all into portable hole
+- Winds up getting dust airborne first
+- Fine compared to dust of choking and sneezing
+- Wakes up guard in coughing fit
+- Irate, asks what momen's doing
+- Other elf, [[Skyseer Roderick Onus]] calms him down
+- Guard looks around, whistles appreciatively, goes back to sleeping
+- Apologize for rudeness
+- Introductions
+- Ask where to look for litch info
+- Reassure that it's not form me
+- Missed reference to [[Iladrien Lassagaseer]]
+- Ask about index; 12 book titles written on a sheet of paper
+- No organizational scheme other than where people place the books when they donate them
+- Most of the books are elvish, only a few are common
+- Ask Roderick for related books
+- Warning on how necromancer's are perceived
+- Finds a few books; ?"Lady of the Lunar Lady and the Sins Against Her", funeral rights, known magical items
+- All elvish
+- Go off to find [[Tittlin]] as he know's elvish and can be bothered without consequence
+- Still chatting with Drusilla
+- Bag of animals, she is not impressed
+- Animals swallowed by vines from the ground
+- Tittlin bemoaning loss of dire wolf
+- Ask for help
+- Tit passes off to Durlin
+- Not pleased, but willing to help
+- Spesof heads off for a walk
+- Momen and Durlan look for a quiet place to start the research
+- Make some progress
+- Spesof returns, apparently Professor Lassagaseer is here
+- Almost got turned away
+- Someone got murdered?
+- Looking for spy, couldn't find them, found body in a bush
+- Tit starts talking saying it wasn't him,
+- Frustrated, can't find where tittlin's talking from, misses hearing about beheading
+- Say please
+- Making guards crazy as well
+- Right behind you
+- Ask about what Prof Lassagaseer is doing here
+- Bad pretty much everywhere in Torveldus
+- Go to see him by the teleportation gates
+- See the guards by the body
+- Ask if it could just be coincidence
+- Tit thinks it was the [[Black Dagger]]
+- Don't even know who was murdered, no head
+- Could have lead with that
+- Ask if Tittlin saw anything before the guards started the investigation
+- Puts up hood and goes off to see what he can
+- Go to see Iladrien
+- Unexpected and out of character hug
+- Asks about how he's doing having fled the entire length of Torveldis
+- Gets on momen's case for hyperbole
+- Most normal thing he's done in the past week
+- Ask if he's able to talk about what's happened and ask
+- Capital is in bad state
+- University is holding back on campus, rest of city is apocalyptic
+- Found something that might help take his mind off things
+- Explain I'm hear for [[Aemmin Simserion]] and could use help
+- Tittlin doesn't show up and starts bothering Lassagaseer while invisible
+- Explain Tittlin, best I can
+- Crime scene's pretty much cleaned up by this point
+- Head back to temple
+- Feel a bit out of place surrounded by so many elves now
+- Spesof heads off to washroom and Tittlin does not re-appear
+- Still not making headway on the theological side of things, books are not written in an accessible manner
+- [[Beiydark]] wanders in and asks what is going on
+
 DM: Now recording.
 Momen Tomori: I recorded All right.
 DM: Okay.
