@@ -1,3 +1,8 @@
+---
+author: "[[Momen Tomori]]"
+log number: 266
+date: 2026-03-31
+---
 I opened the doors to the library with [[Spesof Beegstick|Spesof]] in tow and immediately understood what was meant by the library being buried. Practically everything was covered in what must have been a full inch of dust. The only exceptions were the guard sleeping in the back corner and another elf slowly browsing one of the shelves. With the way the dust revealed his reading order, I could almost imagine that he hadn't moved from that spot for centuries. The sheer amount of dust was near inexplicable, and I couldn't understand how either of the two could manage to use the library in this state. 
 
 Unfortunately, given all the dust present I wouldn't be able to even read the spines of the books. After a moment of thought, I laid out my portable hole just outside the room and grabbed the brim of my hat. As I remembered the gust cantrip step by step, I could feel the spell weaving itself together as the hat's subtle embroidery started to softly glow. The spell fully fixed, I reached out and pulled the wind, directing it against the floor, through the dust and into the hole. It started out well enough, but as I broadened it to get the rest of the room I startled the guard awake and was startled in turn, loosing focus and spreading dust throughout the room. As the guard started coughing and wheezing I struggled to refocus the wind, ignoring the dust in my nose that paled in comparison to the [Dust of Sneezing and Choking](https://5e.tools/items.html#dust%20of%20sneezing%20and%20choking_dmg). I finally managed to get it all under control and stored away.
