@@ -3,6 +3,63 @@ author: "[[Momen Tomori]]"
 log number: 269
 date: 2026-04-21
 ---
+- Call ignis
+- Whiffed flyby staff attack
+- Further to help out monk
+- Tittlin up 120 ft
+- Shoots an infected
+- Spesof swings at another infected
+- Satyrs and monks attack, don't seem to be having any effect
+- Elf splashes
+- Death & poison
+- Unhinged drippy jaw screech
+- Stunned, fall off ignis
+- Attacked with fangs and talons
+- Hydrargerum like
+- Attacked again
+- Screaming
+- Monks missing or doing no damage
+- Command ignis to attack
+- Transcendentalist Eladir arrives
+- Silvery dragon come in and sprays poison
+- Tit keeps shooting
+- Spes asks if Eladir has a plan
+- Cut off heads
+- More dying
+- Eladir surrounded but parrying all attacks
+- No longer stunned
+- Attempt to compel enemies
+- Only get three, but do get the dragon
+- Eladir pulls out glowing sword
+- Strengthening aura
+- Dragon breaths poison as it leaves
+- Spesof passes vicious spear to a heavenly supplicant
+- Doesn't really help
+- Turning around
+- Revivify
+- Momen casts healing
+- Keep enemies moving away
+- Eladir cuts down another enemy
+- Spesof takes out last one
+- Try to grab enemy with Ignis
+- Swing and miss
+- Elodir kills dragon
+- Area is clear
+- Ask what's happening
+- Found second body, suddenly monsters everywhere
+- Infected are from town, not refugees
+- Doesn't match what we saw before
+- Momen & Tit fly up to figure out what's happening
+- Find epicenter of disaster in west of town
+- Not enough magic to cordon off the area
+- Only people in danger are those distressed by the dancing dragon
+- Send Tit to rescue them
+- Please
+- Fill in Eladir. not enough manpower to fully contain, but moon guards will try
+- Turns out to be from Beidark's estate
+- Confirm that Drusilia is alright inside & inform her
+- Best plan is to go to the epicenter and try to stop it
+
 Tittlin: Oh my god, look who decided to finally fucking show up, huh?
 Tittlin: Always waiting on Craig.
 Spesof Beegstick: Did I roll?
