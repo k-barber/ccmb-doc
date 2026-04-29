@@ -1,0 +1,1 @@
+A disease that turns people silvery and bestial, spreading by bites and allowing possession by [[Hydrargyrum ― The Quick|Hydrargyrum]].
