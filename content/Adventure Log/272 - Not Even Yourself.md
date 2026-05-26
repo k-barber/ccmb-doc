@@ -3,6 +3,60 @@ author: "[[Momen Tomori]]"
 log number: 272
 date: 2026-05-19
 ---
+- Find [[Drusilia Chaepetor]]
+- Untie & explain situation
+- Discuss [[Lathaeril]]
+- Leave, double check that she knows how to use the door
+- Head to next room
+- [[Durlan Chaepetor]] trap
+  - Feeblemind (miss)
+  - Firestorm
+  - [[Spesof Beegstick]] axe
+- Regroup & plan
+- Check on [[Moonblade]]
+	- Still doesn't like me
+	- Furious about drow
+- Lathaeril missing, found in underwear closet
+- Healing (including [[Tittlin]] max health reduction)
+- Wake up Lathaeril, hold him back
+- Ask about tying up Drusilia
+- Someone else wearing similar armour?
+- Scry on [[Iladrien Lassagaseer]] (letter)
+- Bathroom (see enemies & stalls, but not him)
+- Blade decides to go with the pervert
+- Head out
+- Realize zombie burnt to crisp
+- Reach [[Beiydark]]
+- Snark with Drusilia
+- More healing
+- Large group now
+- Bathroom
+- Cast intellect fortress on spes & lath (1 hr)
+- Spes kicks down door
+- Quickly dispatch dark elves
+	- Too fast for Lath to do anything
+- Rescue Lassagaseer & [[Skyseer Roderick Onus]]
+- Too late to interrupt ritual from the corpse here (ethereal)
+- Planning
+	- Worried about splitting up due to mind control, but need to due to multiple tasks
+	- Our group + Lassagaseer + Durlin -> rescue estate -> litch
+	- Other group -> clear temple -> smite brain
+- Fly to estate
+- Double check places we've been
+- Not-so-carefully disable teleportation carpet & take it
+- Slowly go through building room by room, quietly taking out infected
+- Guards give us headcount for upstairs
+- Tit crowbars golden fish out of gallery
+- Upstairs
+- One fight where we didn't get the drop on them
+- Two more maids, Durlin escort back to guards
+- Say another maid in chambers
+- One more fight
+- Save maids in chambers (Durlin)
+- Laboratory
+- Magic pick-melting lock
+- Momen trying to convince them to check
+
 DM: Are you oh yeah, yeah, yeah.
 Momen Tomori: Oh we forgot.
 DM: I can't believe we forgot, Mr.
