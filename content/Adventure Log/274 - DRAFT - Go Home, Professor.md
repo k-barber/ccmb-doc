@@ -1,0 +1,36 @@
+---
+author: "[[Tittlin]]"
+log number: 274
+date: 2026-06-02
+---
+The lights to the southwest turned out to be an abandoned warehouse at the end of a dirt road, windows boarded, purplish-pink ritual light leaking out through the gaps. No music, despite the color of it. Just the occasional crow.
+
+[[Momen Tomori|Momen]] handed me a stack of healing potions on the approach, twenty points each, and I want it on record that I checked whether this was a gift or a debt before I drank any of them. He said gift. So I drank.
+
+Momen put his head up to the first window and read the room for us. Magic circles etched into the stone floor, several of them, and in the center of each a crystal spike with a member of the temple clergy impaled on it. The ritual was running off the bodies. To stop it, you take the bodies off the spikes — every one of them slows it further, and from where we stood we had maybe an hour before it finished. Not a sprint, but no time to throw a party either. I suggested throwing a party anyway. The motion failed.
+
+Then Momen looked again and saw a familiar face near the center: [[Transcendentalist Elidyr]]. Which would have been comforting, except we had just left the actual Elidyr at the temple, and there was no obvious way he'd beaten us across town when we flew.
+
+We worked our way window to window, marking what we found. Dwarven protection turrets on stone obelisks — Momen recognized them, lightning or fire, triggered by a magic proximity sensor with a whitelist, no fooling them by cloaking or hovering. A control panel of standard dwarven make that Momen warned was likely trapped against tampering. More circles. More spikes. And through one window, a better angle on Elidyr's face.
+
+That's where I came in. Momen wanted a closer read, so I handed over the spyglass — after a brief and humiliating interlude in which I tried to hand him a crystal ball I was not holding and then announced, correctly, that I was dumb. With the spyglass zoomed in, the face had every detail right. But this person was more high-strung than Elidyr ever is. Momen's read was that he was a decoy — pretending to fuss over the ritual without actually touching it. Bait, in other words.
+
+[[Spesof Beegstick|Spesof]] and I went in first, quietly. Two skeletons were standing watch over the inner door, fifteen feet apart, which I will note is exactly too far to skewer both with one arrow. We hand-signaled it out — I gave him a two and a finger on each side, counted down from ten so we'd loose together — and put them both down before either could raise an alarm. I leaned over and recovered my arrow on the way past. Waste not.
+
+The decoy turned and greeted Spesof like an old friend, "Ah, just in time, I was in desperate need of some help here." He claimed he'd flown over too. He claimed he'd come in through that loose window. He claimed he didn't know how to shut any of this off. Spesof kept poking holes — how did you beat us here, what about the skeletons, what about the turrets — and the answers got thinner each time. When Spesof mentioned the necromancy, "Elidyr" pivoted instantly to suspecting Momen, drew his sword, and demanded to know where the professor was. Spesof defended him. It was a decent performance from both of them, considering one of them was lying about his entire identity.
+
+Then Momen rode in through the wall on his dragon, gave his full title — Professor of Applied Necromancy — and the mask came off.
+
+It was [[Aemmin Simserion]]. Momen's expelled student, the one who stuffed a rag down his throat the last time they fought. He'd learned from that: this time he had a muzzle-cage over his own mouth and, less explicably, a second head sticking out of his back. The illusion dropped, he banished Spesof to a maze — the same labyrinth from before, the one Momen pointed out was literally built so a minotaur couldn't escape it — and the fight started in earnest.
+
+It was, mostly, a conversation. Aemmin barely lifted a hand against Momen the whole time. He just kept talking, and twice he pulled out a shovel of all things and cast Geas, telling Momen to go home. He wanted Momen to understand. He's dying — only human, no time to see the wonders of the world — and he's convinced he's close to lichdom, close enough that someone has to be the pioneer who goes too far to prove it works. He offered to hand all his research to Momen afterward, so the slow, careful, better students could perfect it without slaughtering anyone. He kept circling back to it: *you're a professor of necromancy, your whole job is taking dangerous heresies and making them safe.* Momen never bit. He told him the slaughter of innocents wasn't a line he'd cross for knowledge, and that knowing about it left him obligated to stop it. Stubborn, he said. It's in a dwarf's nature.
+
+Aemmin, for his part, has somewhere around four hundred hit points. He is the thickest mage any of us have ever seen.
+
+My own war was quieter. I stayed invisible the entire fight, drifting from window to window, bow drawn, with strict instructions to myself: if Aemmin so much as threatens anyone, take the shot — otherwise stay hidden, because there is no one out here to help me if I get blown up. Momen couldn't see me half the time. Spesof was in the maze. So I watched. I watched Momen do the actual work, flying his dragon from spike to spike, hauling clergy off one at a time while two dwarven turrets cooked him with lightning. The second pass killed the dragon outright. Momen barely escaped being impaled himself, landed hard, and kept going on foot, taking the Geas psychic damage every time he acted against the order to leave rather than abandon the bodies. He pulled the last corpse off, and the swirling lights finally guttered out.
+
+Aemmin gave up after that. He stalked to the window shouting "Professor! Where did you go?" — Momen had Misty Stepped out into the dark and slumped against the wall, and I'd ducked below the sill. I whispered to him that he seemed to be handling it and asked, fairly I think, whether he'd rather be on his own. Spesof reappeared from the maze around the same time, deeply confused, having been sent there by someone he never even got a look at. By the time he sorted out which buttons on the panel turned the turrets off — he pressed the wrong one first and made them very angry, Momen pressed the right one — Aemmin was already gone. He'd swung back around once, found Spesof still standing there, winced, held his head, muttered "the ritual's over, you can leave," and walked off into the night.
+
+So we won, technically. The ritual is broken, every spike empty, the clergy off them. But Aemmin walked away, and we still don't know how to fight him properly — he disrupted us so badly we never landed a clean plan. Ignis is dead on the floor. Momen is in rough shape, taking notes on the whole apparatus so he can pull the ritual apart and guess what Aemmin tries next, which he's sure will be bigger than this. And come sunup tomorrow Momen has to leave town or keep taking the Geas damage for the next thirty days. He needs a priest. One of the temple's elves can probably manage it — assuming, of course, that anything's still standing back at the temple.
+
+We'll dissect the ritual properly next time.
