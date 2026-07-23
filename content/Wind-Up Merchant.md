@@ -1,0 +1,1 @@
+A small wind-up toy that spits out a list of cheap magic items and, up to once a day, hands you whichever one you can pay for

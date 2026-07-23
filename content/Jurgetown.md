@@ -1,0 +1,1 @@
+A town of [[Duergar]] ruled by [[Jurge ―  The Lord of the Underground]]. Located under [[The Imperial Plains]] a little ways away from [[Elkenalden]].
