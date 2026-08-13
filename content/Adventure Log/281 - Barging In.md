@@ -3,6 +3,31 @@ author: "[[Momen Tomori]]"
 log number: 281
 date: 2026-08-06
 ---
+- Waiting for Opera's return and preparing for tomorrow
+- Momen planning spells & buying more healing potins
+- Spesof changes attunements rifle -> crystal great sword, dwarf belt -> lodestone
+- Spesof goes fishing
+- Next day
+- TM Opera O
+- Several mages & men with cannons
+- Confirm [[Jurge ―  The Lord of the Underground|Jurge]] is evil
+- Opera wants to charge the castle, don't have enough fly to get everyone in quick for a rush
+- Rafnar doesn't do combat drops at all
+- Investigate cave to find tunnel to passwall in
+- Jurgetown
+- Easy to avoid guard, things are more chaotic after the failed raid, Hesick's turning
+- Find that river in front of castle leads out of cave
+- Plan: Take gatehouse, kill Jurge, either cart him out on barge or teleport him out if we can hold the place and get Rafnar to
+- Opera will charge in after we take the gatehouse
+- boat in
+- Climb up cliff
+- Passwall & pass without trace
+- Many dudes on our side
+- Take out first two guards (blight & arrow)
+- Magic blocking barrier to main room
+- Remount Ignis
+- Going loud & charge into room
+
 DM: Now recording.
 Tittlin: Recording.
 Momen Tomori: Now recording.
