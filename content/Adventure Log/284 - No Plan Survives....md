@@ -3,6 +3,74 @@ author: "[[Momen Tomori]]"
 log number: 284
 date: 2026-09-08
 ---
+- Spesof opens up with meteors
+- Zap between statue and fountain almost hits him
+- Tiny mind masters
+- Bash veteran with butt of rifle
+- [[TM Opera O ― The Centurial Overlord]] charges [[Jurge ―  The Lord of the Underground]]
+- Rainbow breath weapon
+- Weave shifts, Jurge dodges
+- Battle begins in earnest
+- Illusory dragon on fountain, terrifies all the enemies other than Jurge
+- Let [[Ignis]] loose on smaller enemies
+- Illusion strafes Jurge with ice breath
+- Jurge "Do you need any more dragons on your side? I'm sure I can call up a few"
+- Ignore him
+- Javelin's flying at us
+- Jurge throws Opera at momen, squashing him
+- Lose concentration
+- Jurge flies over to Spesof, wing blast
+- Mages around him fall to the ground
+- Stalactite falls and crushes part of center fountain, two friendlies manage to dodge
+- Opera flies at Jurge and breath weapon's him again
+- Blinds a tiny mind master caught in the cross-fire (What do you mean temporarily?)
+- Baggins stands up and ice storm's the northern guards
+- Fireball
+- Realize mage by fountain died without getting hit
+- Don't know why, Tit didn't see it cause
+- Notify others to watch
+- Run and Misty Step
+- Blight Jurge
+- Opera can detect a small reptile behind him, dismissive
+- We believe it's the purple dragon
+- Kicks it into fountain
+- Durgar comes out of the fountain rubble and begins attacking both sides
+- Try and regroup to stay out from between two sides
+- Jurge takes to the sky, angry
+- Breath weapon (blast of stunning, deafening sound)
+- Hear Spesof over the link that his head is ringing and he can't hear
+- Try to get people to avoid getting pinned between both sides again
+- Tiny mind master turned out to be what killed mage, fails to mind master momen
+- Opera recovers from breath weapon, shakes golden blood around
+- Bloodlust surges, eyes begin to glow
+- Mages give Spesof & Momen fly
+- Head up
+- Focus on hat, Eldritch blast, all 3 beams miss
+- Send Ignis up to help veteran who's out of position
+- Eat a mind master
+- Hit by purple dragon, hurts but doesn't crush mind
+- Ignis taking many hits
+- Another thunder breath
+- Takes out the mage making me fly
+- Thump
+- Opera blasts breath weapon, one disintigrates
+- Radiance heals many allies, including fallen
+- Tittlin Runs back to gatehouse, firing
+- Jurge chases
+- Gatehouse closes
+- Jurge roars and ceiling collapses on gatehouse
+- Mind mastered cannons hitting opera
+- Asks which evil first
+- Convince him to let evil destroy itself and rescue friendlies first
+- Friendlies recover, start cleaning up the field with magic
+- Bring ignis out from enemy lines with vet
+- Try to split damage as Ursus could disintigrate Jurge
+- Blight does nothing to Ursus
+- "Did you not leearn anything last time Professor? Oh no, I suppose you didn't"
+- Usrsus blinks and starts attacking friendlies
+- Jurge another breath weapon at us
+
+--------------
 Momen Tomori: Now recording what is there to say.
 Spesof Beegstick: Now recording big boy want to roll over and die.
 DM: All right.
