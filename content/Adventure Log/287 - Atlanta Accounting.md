@@ -3,6 +3,22 @@ author: "[[Momen Tomori]]"
 log number: 287
 date: 2026-09-29
 ---
+- Pay 50,000 GP to start construction on the Atlanta trading center
+- [[Warlord Griobiog|Griobiog]] handles it
+- Storing things in Atlanta's Vault
+- Reminisce on old items
+- Start thinking of what's needed to raise [[Jurge ―  The Lord of the Underground|Jurge]]
+- Start putting up scaffolding
+- Need strong reptile blood, stronger than a salamander
+- Start planning teleportation circles and route
+	- Start in [[Elkenalden]]
+	- Create circle in 
+		- [[Locust Gate]]
+		- [[Hvitsand]]
+		- [[Nørreholte]]
+- Teleport into [[Cathedral of Rejuvenation]] carrying the boat
+- Shooed out of the building
+
 Momen Tomori: Oh no, what is I moving?
 DM: You are moving everything.
 Momen Tomori: How did I have everything selected?
