@@ -1,6 +1,6 @@
 ---
 author: "[[Momen Tomori]]"
-log number: 287
+log number: 286
 date: 2026-09-29
 ---
 - Pay 50,000 GP to start construction on the Atlanta trading center
