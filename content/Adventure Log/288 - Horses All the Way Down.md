@@ -11,7 +11,7 @@ He was tired when he received us at one o'clock, and he looked faintly baffled. 
 
 The Marquis gave us a small building beside one of the gatehouses, on the road and easy to defend, as General Gak wanted. [[Momen Tomori|Momen]] looked it over, pronounced it sound, took the key and got down on his knees with his chalk. We also carry a letter under the Imperial seal from [[Alfred Oberstein Ⅲ|Duke Oberstein]] now, telling every noble in the empire to lend us a hand. I expect we'll be waving it about a good deal.
 
-While the Professor painted, I asked the Marquis about the Scattered Steppe and the woman who runs it, Marquis Narangawa. "Rough around the edges," he said, which is something to hear from a man who lives on monster meat in the snow. Nomads, mostly, more tents than buildings, and the tents bigger than the buildings. Horse to eat, mare's milk to drink, and nobles who sleep beside their horses and don't wash. If we wanted to please her: leather, tack, interesting food or drink. Never anything shiny. She throws jewels away. She's friendly with [[Drelia]], too, and there's an elven embassy in Arrowburn.
+While the Professor painted, I asked the Marquis about the Scattered Steppe and the woman who runs it, Marquis Narengawa. "Rough around the edges," he said, which is something to hear from a man who lives on monster meat in the snow. Nomads, mostly, more tents than buildings, and the tents bigger than the buildings. Horse to eat, mare's milk to drink, and nobles who sleep beside their horses and don't wash. If we wanted to please her: leather, tack, interesting food or drink. Never anything shiny. She throws jewels away. She's friendly with [[Drelia]], too, and there's an elven embassy in Arrowburn.
 
 I spent the wait whittling a little horse. It came out like a child's toy. I was in a poor mood and it shows in every line of it. I pocketed it anyway.
 
@@ -29,7 +29,7 @@ I went to the bar, naturally. The old man there poured me a taste of *kumis*, fe
 
 ## The Marquis of the Steppe
 
-Narangawa's seat is a great open hall with a bare earth floor and stands where people eat and drink. At the far end she sits on a chair heaped with furs: wild hair, two swords at her belt, gnawing on a horse joint. I introduced us and offered my gifts, three chocolate eggs and the saffron I'd carried for ages without a use. She asked what kind of beast a chocolate was. Momen explained it was a plant, and she bit straight through the wrapper and called it bizarre, which I took as praise. She'd heard of us, servants of the Dorthana family.
+Narengawa's seat is a great open hall with a bare earth floor and stands where people eat and drink. At the far end she sits on a chair heaped with furs: wild hair, two swords at her belt, gnawing on a horse joint. I introduced us and offered my gifts, three chocolate eggs and the saffron I'd carried for ages without a use. She asked what kind of beast a chocolate was. Momen explained it was a plant, and she bit straight through the wrapper and called it bizarre, which I took as praise. She'd heard of us, servants of the Dorthana family.
 
 She gave us leave for Marclesfield without fuss. For a token to show them there, she had a guard bring her a block of wood, hacked at it with one of her swords, and tossed me a horse with a flowing mane that looks more alive than most real horses. I am somewhat of a woodworker myself. I said so, and then kept my own horse well out of sight. Everyone on the Steppe carves, she says.
 
@@ -41,8 +41,8 @@ Then someone at the back of the hall stood up shrieking, his skin gone silver. A
 
 Outside, a crowd of elves was waiting, led by one in a decorated breastplate. He looked at Tittlin and called him *Tanyth Searo*.
 
-They mean no harm, he said. Duke Searo has the malady and is failing, and Lady Nyana wants her children home. When we pressed him, Tittlin finally told us a little of it: the Duke is the reason the brothers were orphaned and their father is dead. He hasn't seen his mother in a century. Momen pressed one of our last vials into his hand.
+They mean no harm, he said. Duke Searo is sick and is failing, and Lady Nyana wants her children home. When we pressed him, Tittlin finally told us a little of it: the Duke is the reason the brothers were orphaned and their father is dead. He hasn't seen his mother in a century. Momen pressed one of our last vials into his hand.
 
 Tittlin wanted his brother along, so I called [[Rafnar Jakobsson|Rafnar]] on his card, and he fetched [[Rittlin]]. Rittlin took one look at the armour and claimed never to have seen it before in his life. Then he heard the Duke was sick, and his whole face lit up. He's fixing his hair, dusting off his cloak and keen to go. I don't like it. Tittlin says it's the happiest he's seen his brother since they blew up the orphanage.
 
-The escort means to ride to Marclesfield and then take a boat to Imfalon. That's our road too, so we'll ride together. We set off west with an elven honour guard, two brothers going home to a dying man, and a pocket full of horses. I did not buy the bagpipes. I thought about it a long time.
+The escort means to ride to Marclesfield and then take a boat to Imfelond. That's our road too, so we'll ride together. We set off west with an elven honour guard, two brothers going home to a dying man, and a pocket full of horses. I did not buy the bagpipes. I thought about it a long time.
